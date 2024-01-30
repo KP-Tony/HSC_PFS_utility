@@ -67,12 +67,56 @@ for (var p in pages){
     (async()=>{fieldset[p] = (await v)})()
 }
 //save this string on the project
-console.log(fieldset);
+//console.log(fieldset);
 
 //Save this string in the variable "json_fieldset" on the Titan project. 
 //-------------------------------------------------------------------------------------------------------------
 //-------------------------------------------------------------------------------------------------------------
 
+
+//Alternatively you can run this on the first load of the published site
+//It will work once, but then load empty promises after
+//For some reason the published site is testy
+
+// var fieldset = {};
+// var pages = {"3":"https://kellerpostman.formtitan.com/ftproject/hsc_pfs/ftef4ea233e38740f5abad92545bd68ee5",
+//             "4":"https://kellerpostman.formtitan.com/ftproject/hsc_pfs/ftf6e407f116ad4d94a1c903fb9ebbdd49",
+//             "2":"https://kellerpostman.formtitan.com/ftproject/hsc_pfs/ft047c7e2cbc1f4633abd0e8ecd28e9af0",
+//             "1":"https://kellerpostman.formtitan.com/ftproject/hsc_pfs/ft54dae613916d428dab323a6282b2353c",
+//             "5":"https://kellerpostman.formtitan.com/ftproject/hsc_pfs/ftb941bef914be4abb8c326754a05bfb5b"};
+
+// async function fetchData(){
+//     const promises=[];
+//     for (var p in pages){
+    
+//         var v = fetch([pages[p]])
+//             .then(res=> res.text())
+//             .then(data=> {
+//             const appStateStr = data.match(/(?<=__FT__APP__STATE=)(.+?)(?=};<\/script>)/)[0] +"}";
+//             const appState = JSON.parse(appStateStr);
+//             if(!appState.pages) return;
+//             const elements = appState.pages[appState.currentPage]?.Props?.elements;
+    
+//             const elementEntries = Object.entries(elements);
+//             const filteredElements = elementEntries.reduce((acc, [key, value]) => {
+//             if (value.type === 'FormField' || value.type === 'RepeatAutoFit') {
+//                 acc[key] = value;
+//             }
+//             return acc;
+//             }, {});
+        
+//             return genFieldSet(filteredElements);
+//             //return fields;
+//         });
+//         promises.push(v);
+//     }
+//     const fieldsets = await Promise.all(promises);
+//     return fieldsets;
+// }
+// fetchData()
+//     .then(fieldset => {
+//         console.log(fieldset);
+// })
 
 
 //-------------------------------------------------------------------------------------------------------------
@@ -113,13 +157,12 @@ function getPageValues(fieldset, page){
             fieldset[page][key]['value'] = t; 
         }
     }
-    return fields;
 }
 
 //Vital that this variable is updated for every page on the project
 var page = ftGetParamValue("active_page");
-// var fieldset = ftGetParamValue("json_fieldset");
-// fieldset = JSON.parse(fieldset);
+var fieldset = ftGetParamValue("json_fieldset");
+fieldset = JSON.parse(fieldset);
 var fields = getPageValues(fieldset, page);
 //resave the updated fieldset
 //ftSetParamValue('json_fieldset',JSON.stringify(fieldset));
@@ -172,25 +215,33 @@ function getCryptData(data, key_str){
 //-------------------------Send Data Somewhere----------------------------
 //encrypt and prep to send
 //need to have encryption key, dont post in repo
-var key_str = ''
+var key_str = 'NEED A KEY'
 var crypt = getCryptData(fields,key_str);
 
-var sub = {"metadata":{"page":page,
-                        "matter":ftGetParamValue("matter_id"),
-                        "party":ftGetParamValue("party_id"),
+var sub = {"metadata":{"matter":ftGetParamValue("matter_id"),
+                       "party":ftGetParamValue("party_id"),
                         },
             "data":crypt};
 
-
-//sub = JSON.stringify(sub);
 //Send sub wherever
 
-////Send to Tray Webhhok
+//Arthur likes Fetch API
+var res;
+const response = fetch("https://pvgsmdqsratrzjjtn3fed3ykli0hwlyv.lambda-url.us-east-1.on.aws/", {
+    method: "POST",
+    mode:"no-cors",
+    headers: {'Access-Control-Allow-Origin':'https://kellerpostman.formtitan.com',
+            'Access-Control-Allow-Credentials':'true'},
+    body: JSON.stringify(sub),
+});
+
+// //(async()=>{res = (await response)})()
+
+//HTTP Req
 // var root = "https://3f112ed9-c29c-4dad-b822-605ad0678af5.trayapp.io";
 // var request = new XMLHttpRequest();
 // request.open("POST", root);
-// request.send(JSON.stringify(tagset));    
-
+// request.send(JSON.stringify(sub));    
 //------------------------------------------------------------------------------------------------------------------------------------
 //------------------------------------------------------------------------------------------------------------------------------------
 
@@ -199,32 +250,32 @@ var sub = {"metadata":{"page":page,
 //------------------------------------------------------------------------------------------------------------------------------------
 
 //Utiility to unhide everything on a pager
-function divdump(elem) {
-    div = elem.querySelector('div');
-    if(div){
-        div.style.display = "flex";
-        div.classList.remove("ft--elem--hide");
-        div.classList.remove("disable");
-    }
-}
+// function divdump(elem) {
+//     div = elem.querySelector('div');
+//     if(div){
+//         div.style.display = "flex";
+//         div.classList.remove("ft--elem--hide");
+//         div.classList.remove("disable");
+//     }
+// }
 
-var elem, div;
-for (const[k,v] of Object.entries(elements)){
-    try{
-        elem = document.getElementById(k);
-        elem.parentNode.parentNode.classList.remove('ft--elem--hide');
-        elem.parentNode.parentNode.classList.remove('disable');
-        elem.parentNode.parentNode.style.display = "flex";
-        elem.parentNode.classList.remove('ft--elem--hide');
-        elem.parentNode.classList.remove('disable');
-        elem.parentNode.style.display = "flex";
-        elem.style.dispay = "flex";
-        elem.classList.remove('ft--elem--hide');
-        elem.classList.remove('disable');
-        divdump(elem);        
+// var elem, div;
+// for (const[k,v] of Object.entries(elements)){
+//     try{
+//         elem = document.getElementById(k);
+//         elem.parentNode.parentNode.classList.remove('ft--elem--hide');
+//         elem.parentNode.parentNode.classList.remove('disable');
+//         elem.parentNode.parentNode.style.display = "flex";
+//         elem.parentNode.classList.remove('ft--elem--hide');
+//         elem.parentNode.classList.remove('disable');
+//         elem.parentNode.style.display = "flex";
+//         elem.style.dispay = "flex";
+//         elem.classList.remove('ft--elem--hide');
+//         elem.classList.remove('disable');
+//         divdump(elem);        
 
-    }catch(error){};
-}
+//     }catch(error){};
+// }
 
 
 //------------------------------------------------------------------------------------------------------------------------------------
