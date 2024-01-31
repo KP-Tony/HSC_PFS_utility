@@ -1,0 +1,6750 @@
+{
+    "PLAINTIFF INFORMATION": {
+        "Plaintiff": [
+            {
+                "BG Plaintiff ID": NaN
+            },
+            {
+                "Plaintiff Last Name": NaN
+            },
+            {
+                "Plaintiff First Name": NaN
+            }
+        ]
+    },
+    "I. CORE CASE INFORMATION": {
+        "A. Attorney Information": [
+            {
+                "This Document Relates to:\n[Plaintiff Name; MDL Case No.]": "[Relate]"
+            },
+            {
+                "Caption": "[Caption]"
+            },
+            {
+                "Court and Docket No.": "[Court]"
+            },
+            {
+                "MDL Docket No.": "[Docket]"
+            },
+            {
+                "Month of Lawsuit Filing": "[MM_Law]"
+            },
+            {
+                "Day of Lawsuit Filing": "[DD_Law]"
+            },
+            {
+                "Year of Lawsuit Filing": "[YY_Law]"
+            },
+            {
+                "Plaintiff's Attorney": "[Attorney]"
+            },
+            {
+                "Attorney's Firm": "[Firm]"
+            },
+            {
+                "Attorney's Address": "[Address]"
+            },
+            {
+                "Attorney's Phone Number": "[Phone]"
+            },
+            {
+                "Attorney's Email Address": "[Email]"
+            }
+        ],
+        "B. Plaintiff Information": [
+            {
+                "Please provide the following information for the individual on whose behalf this action was filed\n\nDo not fill out this section.": NaN
+            },
+            {
+                "Plaintiff Name (First, Middle, and Last)": "[Name]"
+            },
+            {
+                "Address": "[Street]"
+            },
+            {
+                "City": "[City]"
+            },
+            {
+                "State": "[State]"
+            },
+            {
+                "Zip Code": "[Zip]"
+            },
+            {
+                "Plaintiff's Month of Birth": "[MM_DOB]"
+            },
+            {
+                "Plaintiff's Day of Birth": "[DD_DOB]"
+            },
+            {
+                "Plaintiff's Year of Birth": "[YY_DOB]"
+            },
+            {
+                "Place of Birth (City, State, Country)": "[Birth]"
+            },
+            {
+                "Social Security Number": "[SSN]"
+            },
+            {
+                "Maiden name or other aliases previously used": "[Maiden]"
+            },
+            {
+                "Sex\n\nDo not fill out this section.": NaN
+            },
+            {
+                "Male": "[Chk_Male]"
+            },
+            {
+                "Female": "[Chk_Female]"
+            },
+            {
+                "Race": "[Race]"
+            },
+            {
+                "Ethnicity": "[Ethnicity]"
+            },
+            {
+                "If you are completing this questionnaire in a representative capacity (e.g., on behalf of the estate of a deceased person), please state the following:\n\nDo not fill out this section.": NaN
+            },
+            {
+                "Name": "[Rep_Name]"
+            },
+            {
+                "Address": "[Rep_Address]"
+            },
+            {
+                "Capacity in which you are representing the individual": "[Capacity]"
+            },
+            {
+                "If you were appointed by a court, identify the state, court, and case number": "[Appoint]"
+            },
+            {
+                "Relationship to represented person": "[Relationship]"
+            },
+            {
+                "Date of Death of the decedent\n\nDo not fill out this section.": NaN
+            },
+            {
+                "Month of Death": "[MM_DOD]"
+            },
+            {
+                "Day of Death": "[DD_DOD]"
+            },
+            {
+                "Year of Death": "[YY_DOD]"
+            },
+            {
+                "Place of death of the decedent (city, state, country)": "[Death]"
+            }
+        ]
+    },
+    "II. Personal Information": {
+        "A. Relationship Information": [
+            {
+                "Married": "[Chk_Status_1]"
+            },
+            {
+                "Single": "[Chk_Status_2]"
+            },
+            {
+                "Engaged": "[Chk_Status_3]"
+            },
+            {
+                "Significant Other": "[Chk_Status_4]"
+            },
+            {
+                "Divorced": "[Chk_Status_5]"
+            },
+            {
+                "Widowed": "[Chk_Status_6]"
+            },
+            {
+                "N/A (Completing on Behalf of decedent": "[Chk_Status_7]"
+            }
+        ],
+        "B. Addresses": [
+            {
+                "For ten (10) years prior to your Injury Diagnosis, please identify EACH address at which you have resided, the dates during which you lived at each address:\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Address 1": [
+            {
+                "Street": "[Street_1]"
+            },
+            {
+                "City": "[City_1]"
+            },
+            {
+                "State": "[State_1]"
+            },
+            {
+                "Zip": "[Zip_1]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_1]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_1]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_1]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_1]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_1]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_1]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_1]"
+            }
+        ],
+        "Address 2": [
+            {
+                "Street": "[Street_2]"
+            },
+            {
+                "City": "[City_2]"
+            },
+            {
+                "State": "[State_2]"
+            },
+            {
+                "Zip": "[Zip_2]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_2]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_2]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_2]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_2]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_2]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_2]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_2]"
+            }
+        ],
+        "Address 3": [
+            {
+                "Street": "[Street_3]"
+            },
+            {
+                "City": "[City_3]"
+            },
+            {
+                "State": "[State_3]"
+            },
+            {
+                "Zip": "[Zip_3]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_3]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_3]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_3]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_3]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_3]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_3]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_3]"
+            }
+        ],
+        "Address 4": [
+            {
+                "Street": "[Street_4]"
+            },
+            {
+                "City": "[City_4]"
+            },
+            {
+                "State": "[State_4]"
+            },
+            {
+                "Zip": "[Zip_4]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_4]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_4]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_4]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_4]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_4]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_4]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_4]"
+            }
+        ],
+        "Address 5": [
+            {
+                "Street": "[Street_5]"
+            },
+            {
+                "City": "[City_5]"
+            },
+            {
+                "State": "[State_5]"
+            },
+            {
+                "Zip": "[Zip_5]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_5]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_5]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_5]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_5]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_5]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_5]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_5]"
+            }
+        ],
+        "Address 6": [
+            {
+                "Street": "[Street_6]"
+            },
+            {
+                "City": "[City_6]"
+            },
+            {
+                "State": "[State_6]"
+            },
+            {
+                "Zip": "[Zip_6]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_6]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_6]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_6]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_6]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_6]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_6]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_6]"
+            }
+        ],
+        "Address 7": [
+            {
+                "Street": "[Street_7]"
+            },
+            {
+                "City": "[City_7]"
+            },
+            {
+                "State": "[State_7]"
+            },
+            {
+                "Zip": "[Zip_7]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_7]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_7]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_7]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_7]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_7]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_7]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_7]"
+            }
+        ],
+        "Address 8": [
+            {
+                "Street": "[Street_8]"
+            },
+            {
+                "City": "[City_8]"
+            },
+            {
+                "State": "[State_8]"
+            },
+            {
+                "Zip": "[Zip_8]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_8]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_8]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_8]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_8]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_8]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_8]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_8]"
+            }
+        ],
+        "Address 9": [
+            {
+                "Street": "[Street_9]"
+            },
+            {
+                "City": "[City_9]"
+            },
+            {
+                "State": "[State_9]"
+            },
+            {
+                "Zip": "[Zip_9]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_9]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_9]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_9]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_9]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_9]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_9]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_9]"
+            }
+        ],
+        "Address 10": [
+            {
+                "Street": "[Street_10]"
+            },
+            {
+                "City": "[City_10]"
+            },
+            {
+                "State": "[State_10]"
+            },
+            {
+                "Zip": "[Zip_10]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_10]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_10]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_10]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_10]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_10]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_10]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_10]"
+            }
+        ],
+        "Address 11": [
+            {
+                "Street": "[Street_11]"
+            },
+            {
+                "City": "[City_11]"
+            },
+            {
+                "State": "[State_11]"
+            },
+            {
+                "Zip": "[Zip_11]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_11]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_11]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_11]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_11]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_11]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_11]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_11]"
+            }
+        ],
+        "Address 12": [
+            {
+                "Street": "[Street_12]"
+            },
+            {
+                "City": "[City_12]"
+            },
+            {
+                "State": "[State_12]"
+            },
+            {
+                "Zip": "[Zip_12]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_12]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_12]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_12]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_12]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_12]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_12]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_12]"
+            }
+        ],
+        "Address 13": [
+            {
+                "Street": "[Street_13]"
+            },
+            {
+                "City": "[City_13]"
+            },
+            {
+                "State": "[State_13]"
+            },
+            {
+                "Zip": "[Zip_13]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_13]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_13]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_13]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_13]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_13]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_13]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_13]"
+            }
+        ],
+        "Address 14": [
+            {
+                "Street": "[Street_14]"
+            },
+            {
+                "City": "[City_14]"
+            },
+            {
+                "State": "[State_14]"
+            },
+            {
+                "Zip": "[Zip_14]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_14]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_14]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_14]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_14]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_14]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_14]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_14]"
+            }
+        ],
+        "Address 15": [
+            {
+                "Street": "[Street_15]"
+            },
+            {
+                "City": "[City_15]"
+            },
+            {
+                "State": "[State_15]"
+            },
+            {
+                "Zip": "[Zip_15]"
+            },
+            {
+                "Month moved in": "[MM_HouseS_15]"
+            },
+            {
+                "Day moved in": "[DD_HouseS_15]"
+            },
+            {
+                "Year moved in": "[YY_HouseS_15]"
+            },
+            {
+                "Month moved out": "[MM_HouseE_15]"
+            },
+            {
+                "Day moved out": "[DD_HouseE_15]"
+            },
+            {
+                "Year moved out": "[YY_HouseE_15]"
+            },
+            {
+                "Check if to present": "[Chk_House_Pres_15]"
+            }
+        ],
+        "C. Employment": [
+            {
+                "If you are making a claim for lost wages, please complete the chart below detailing your employment history for the ten (10) years prior to your claimed injury.\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Employer 1": [
+            {
+                "Name of Employer": "[Job_1]"
+            },
+            {
+                "Street": "[Job_Street_1]"
+            },
+            {
+                "City": "[Job_City_1]"
+            },
+            {
+                "State": "[Job_State_1]"
+            },
+            {
+                "Zip": "[Job_Zip_1]"
+            },
+            {
+                "Phone": "[Job_Phone_1]"
+            },
+            {
+                "Month Start": "[MM_JobS_1]"
+            },
+            {
+                "Day Start": "[DD_JobS_1]"
+            },
+            {
+                "Year Start": "[YY_JobS_1]"
+            },
+            {
+                "Month End": "[MM_JobE_1]"
+            },
+            {
+                "Day End": "[DD_JobE_1]"
+            },
+            {
+                "Year End": "[YY_JobE_1]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_1]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_1]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_1]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_1]"
+            }
+        ],
+        "Employer 2": [
+            {
+                "Name of Employer": "[Job_2]"
+            },
+            {
+                "Street": "[Job_Street_2]"
+            },
+            {
+                "City": "[Job_City_2]"
+            },
+            {
+                "State": "[Job_State_2]"
+            },
+            {
+                "Zip": "[Job_Zip_2]"
+            },
+            {
+                "Phone": "[Job_Phone_2]"
+            },
+            {
+                "Month Start": "[MM_JobS_2]"
+            },
+            {
+                "Day Start": "[DD_JobS_2]"
+            },
+            {
+                "Year Start": "[YY_JobS_2]"
+            },
+            {
+                "Month End": "[MM_JobE_2]"
+            },
+            {
+                "Day End": "[DD_JobE_2]"
+            },
+            {
+                "Year End": "[YY_JobE_2]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_2]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_2]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_2]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_2]"
+            }
+        ],
+        "Employer 3": [
+            {
+                "Name of Employer": "[Job_3]"
+            },
+            {
+                "Street": "[Job_Street_3]"
+            },
+            {
+                "City": "[Job_City_3]"
+            },
+            {
+                "State": "[Job_State_3]"
+            },
+            {
+                "Zip": "[Job_Zip_3]"
+            },
+            {
+                "Phone": "[Job_Phone_3]"
+            },
+            {
+                "Month Start": "[MM_JobS_3]"
+            },
+            {
+                "Day Start": "[DD_JobS_3]"
+            },
+            {
+                "Year Start": "[YY_JobS_3]"
+            },
+            {
+                "Month End": "[MM_JobE_3]"
+            },
+            {
+                "Day End": "[DD_JobE_3]"
+            },
+            {
+                "Year End": "[YY_JobE_3]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_3]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_3]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_3]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_3]"
+            }
+        ],
+        "Employer 4": [
+            {
+                "Name of Employer": "[Job_4]"
+            },
+            {
+                "Street": "[Job_Street_4]"
+            },
+            {
+                "City": "[Job_City_4]"
+            },
+            {
+                "State": "[Job_State_4]"
+            },
+            {
+                "Zip": "[Job_Zip_4]"
+            },
+            {
+                "Phone": "[Job_Phone_4]"
+            },
+            {
+                "Month Start": "[MM_JobS_4]"
+            },
+            {
+                "Day Start": "[DD_JobS_4]"
+            },
+            {
+                "Year Start": "[YY_JobS_4]"
+            },
+            {
+                "Month End": "[MM_JobE_4]"
+            },
+            {
+                "Day End": "[DD_JobE_4]"
+            },
+            {
+                "Year End": "[YY_JobE_4]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_4]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_4]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_4]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_4]"
+            }
+        ],
+        "Employer 5": [
+            {
+                "Name of Employer": "[Job_5]"
+            },
+            {
+                "Street": "[Job_Street_5]"
+            },
+            {
+                "City": "[Job_City_5]"
+            },
+            {
+                "State": "[Job_State_5]"
+            },
+            {
+                "Zip": "[Job_Zip_5]"
+            },
+            {
+                "Phone": "[Job_Phone_5]"
+            },
+            {
+                "Month Start": "[MM_JobS_5]"
+            },
+            {
+                "Day Start": "[DD_JobS_5]"
+            },
+            {
+                "Year Start": "[YY_JobS_5]"
+            },
+            {
+                "Month End": "[MM_JobE_5]"
+            },
+            {
+                "Day End": "[DD_JobE_5]"
+            },
+            {
+                "Year End": "[YY_JobE_5]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_5]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_5]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_5]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_5]"
+            }
+        ],
+        "Employer 6": [
+            {
+                "Name of Employer": "[Job_6]"
+            },
+            {
+                "Street": "[Job_Street_6]"
+            },
+            {
+                "City": "[Job_City_6]"
+            },
+            {
+                "State": "[Job_State_6]"
+            },
+            {
+                "Zip": "[Job_Zip_6]"
+            },
+            {
+                "Phone": "[Job_Phone_6]"
+            },
+            {
+                "Month Start": "[MM_JobS_6]"
+            },
+            {
+                "Day Start": "[DD_JobS_6]"
+            },
+            {
+                "Year Start": "[YY_JobS_6]"
+            },
+            {
+                "Month End": "[MM_JobE_6]"
+            },
+            {
+                "Day End": "[DD_JobE_6]"
+            },
+            {
+                "Year End": "[YY_JobE_6]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_6]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_6]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_6]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_6]"
+            }
+        ],
+        "Employer 7": [
+            {
+                "Name of Employer": "[Job_7]"
+            },
+            {
+                "Street": "[Job_Street_7]"
+            },
+            {
+                "City": "[Job_City_7]"
+            },
+            {
+                "State": "[Job_State_7]"
+            },
+            {
+                "Zip": "[Job_Zip_7]"
+            },
+            {
+                "Phone": "[Job_Phone_7]"
+            },
+            {
+                "Month Start": "[MM_JobS_7]"
+            },
+            {
+                "Day Start": "[DD_JobS_7]"
+            },
+            {
+                "Year Start": "[YY_JobS_7]"
+            },
+            {
+                "Month End": "[MM_JobE_7]"
+            },
+            {
+                "Day End": "[DD_JobE_7]"
+            },
+            {
+                "Year End": "[YY_JobE_7]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_7]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_7]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_7]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_7]"
+            }
+        ],
+        "Employer 8": [
+            {
+                "Name of Employer": "[Job_8]"
+            },
+            {
+                "Street": "[Job_Street_8]"
+            },
+            {
+                "City": "[Job_City_8]"
+            },
+            {
+                "State": "[Job_State_8]"
+            },
+            {
+                "Zip": "[Job_Zip_8]"
+            },
+            {
+                "Phone": "[Job_Phone_8]"
+            },
+            {
+                "Month Start": "[MM_JobS_8]"
+            },
+            {
+                "Day Start": "[DD_JobS_8]"
+            },
+            {
+                "Year Start": "[YY_JobS_8]"
+            },
+            {
+                "Month End": "[MM_JobE_8]"
+            },
+            {
+                "Day End": "[DD_JobE_8]"
+            },
+            {
+                "Year End": "[YY_JobE_8]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_8]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_8]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_8]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_8]"
+            }
+        ],
+        "Employer 9": [
+            {
+                "Name of Employer": "[Job_9]"
+            },
+            {
+                "Street": "[Job_Street_9]"
+            },
+            {
+                "City": "[Job_City_9]"
+            },
+            {
+                "State": "[Job_State_9]"
+            },
+            {
+                "Zip": "[Job_Zip_9]"
+            },
+            {
+                "Phone": "[Job_Phone_9]"
+            },
+            {
+                "Month Start": "[MM_JobS_9]"
+            },
+            {
+                "Day Start": "[DD_JobS_9]"
+            },
+            {
+                "Year Start": "[YY_JobS_9]"
+            },
+            {
+                "Month End": "[MM_JobE_9]"
+            },
+            {
+                "Day End": "[DD_JobE_9]"
+            },
+            {
+                "Year End": "[YY_JobE_9]"
+            },
+            {
+                "Check if to Present": "[Chk_Job_Pres_9]"
+            },
+            {
+                "Occupation or Job Title(s)": "[Title_9]"
+            },
+            {
+                "Name of Supervisor(s)": "[Supervisor_9]"
+            },
+            {
+                "Annual Gross Income Per Year": "[Income_9]"
+            },
+            {
+                "Have you ever been out of work for more than thirty (30) days for reasons related to your health (Y/N)": "[Work]"
+            },
+            {
+                "If yes: please complete the following\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Row 1": [
+            {
+                "Month Out Start": "[MM_WorkS_1]"
+            },
+            {
+                "Day Out Start": "[DD_WorkS_1]"
+            },
+            {
+                "Year Out Start": "[YY_WorkS_1]"
+            },
+            {
+                "Month Out End": "[MM_WorkE_1]"
+            },
+            {
+                "Day Out End": "[DD_WorkE_1]"
+            },
+            {
+                "Year Out End": "[YY_WorkE_1]"
+            },
+            {
+                "Health Reason": "[Health_1]"
+            },
+            {
+                "Year Claim Was Filed": "[Claim_Year_1]"
+            },
+            {
+                "Court": "[Claim_Court_1]"
+            },
+            {
+                "Nature of Claimed Injury": "[Claim_Nature_1]"
+            },
+            {
+                "Period of Disability": "[Claim_Period_1]"
+            },
+            {
+                "Amount Awarded": "[Claim_Amount_1]"
+            },
+            {
+                "Nature of the Case or Claim": "[Case_Nature_1]"
+            },
+            {
+                "Name of the Defendant (Person or Entity You Sued or Filed a Claim Against)": "[Case_Name_1]"
+            },
+            {
+                "Civil Action, Docket Number, or Claim Number": "[Case_Docket_1]"
+            },
+            {
+                "Where was the Lawsuit or Claim was Filed (Court's Name)": "[Case_Court_1]"
+            },
+            {
+                "Name of Your Attorney": "[Case_Attorney_1]"
+            }
+        ],
+        "Row 2": [
+            {
+                "Month Out Start": "[MM_WorkS_2]"
+            },
+            {
+                "Day Out Start": "[DD_WorkS_2]"
+            },
+            {
+                "Year Out Start": "[YY_WorkS_2]"
+            },
+            {
+                "Month Out End": "[MM_WorkE_2]"
+            },
+            {
+                "Day Out End": "[DD_WorkE_2]"
+            },
+            {
+                "Year Out End": "[YY_WorkE_2]"
+            },
+            {
+                "Health Reason": "[Health_2]"
+            },
+            {
+                "Year Claim Was Filed": "[Claim_Year_2]"
+            },
+            {
+                "Court": "[Claim_Court_2]"
+            },
+            {
+                "Nature of Claimed Injury": "[Claim_Nature_2]"
+            },
+            {
+                "Period of Disability": "[Claim_Period_2]"
+            },
+            {
+                "Amount Awarded": "[Claim_Amount_2]"
+            },
+            {
+                "Nature of the Case or Claim": "[Case_Nature_2]"
+            },
+            {
+                "Name of the Defendant (Person or Entity You Sued or Filed a Claim Against)": "[Case_Name_2]"
+            },
+            {
+                "Civil Action, Docket Number, or Claim Number": "[Case_Docket_2]"
+            },
+            {
+                "Where was the Lawsuit or Claim was Filed (Court's Name)": "[Case_Court_2]"
+            },
+            {
+                "Name of Your Attorney": "[Case_Attorney_2]"
+            }
+        ],
+        "Row 3": [
+            {
+                "Month Out Start": "[MM_WorkS_3]"
+            },
+            {
+                "Day Out Start": "[DD_WorkS_3]"
+            },
+            {
+                "Year Out Start": "[YY_WorkS_3]"
+            },
+            {
+                "Month Out End": "[MM_WorkE_3]"
+            },
+            {
+                "Day Out End": "[DD_WorkE_3]"
+            },
+            {
+                "Year Out End": "[YY_WorkE_3]"
+            },
+            {
+                "Health Reason": "[Health_3]"
+            },
+            {
+                "Year Claim Was Filed": "[Claim_Year_3]"
+            },
+            {
+                "Court": "[Claim_Court_3]"
+            },
+            {
+                "Nature of Claimed Injury": "[Claim_Nature_3]"
+            },
+            {
+                "Period of Disability": "[Claim_Period_3]"
+            },
+            {
+                "Amount Awarded": "[Claim_Amount_3]"
+            },
+            {
+                "Nature of the Case or Claim": "[Case_Nature_3]"
+            },
+            {
+                "Name of the Defendant (Person or Entity You Sued or Filed a Claim Against)": "[Case_Name_3]"
+            },
+            {
+                "Civil Action, Docket Number, or Claim Number": "[Case_Docket_3]"
+            },
+            {
+                "Where was the Lawsuit or Claim was Filed (Court's Name)": "[Case_Court_3]"
+            },
+            {
+                "Name of Your Attorney": "[Case_Attorney_3]"
+            }
+        ],
+        "D. Worker's Compensation and Disability": [
+            {
+                "Have you ever filed for workers' compensation, social security, and/or state or federal disability benefits": "[Benefit]"
+            },
+            {
+                "If Yes or Unsure, then as to Each application, please state the following \n\nDo not fill out this section": NaN
+            }
+        ],
+        "E. Military Service": [
+            {
+                "Have you ever served in any branch of the military": "[Military]"
+            },
+            {
+                "Branch and dates of service": "[Branch]"
+            }
+        ],
+        "F. Other Lawsuits": [
+            {
+                "Have you ever filed a lawsuit or made a claim, other than in the present suit, seeking damages for the injuries you claim in this case": "[Seeking]"
+            },
+            {
+                "If Yes, state the following for EACH lawsuit or claim\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Row 4": [
+            {
+                "Nature of the Case or Claim": "[Case_Nature_4]"
+            },
+            {
+                "Name of the Defendant (Person or Entity You Sued or Filed a Claim Against)": "[Case_Name_4]"
+            },
+            {
+                "Civil Action, Docket Number, or Claim Number": "[Case_Docket_4]"
+            },
+            {
+                "Where was the Lawsuit or Claim was Filed (Court's Name)": "[Case_Court_4]"
+            },
+            {
+                "Name of Your Attorney": "[Case_Attorney_4]"
+            }
+        ],
+        "Row 5": [
+            {
+                "Nature of the Case or Claim": "[Case_Nature_5]"
+            },
+            {
+                "Name of the Defendant (Person or Entity You Sued or Filed a Claim Against)": "[Case_Name_5]"
+            },
+            {
+                "Civil Action, Docket Number, or Claim Number": "[Case_Docket_5]"
+            },
+            {
+                "Where was the Lawsuit or Claim was Filed (Court's Name)": "[Case_Court_5]"
+            },
+            {
+                "Name of Your Attorney": "[Case_Attorney_5]"
+            }
+        ]
+    },
+    "III. Advocacy and Social Media": {
+        "Row 5": [
+            {
+                "Are you now or have you ever been a member of any support, advocacy, or social group regarding your injuries you attribute to HAIR RELAXER PRODUCTS": "[Member]"
+            },
+            {
+                "If yes, please fill out the following:\n\nDo not fill out this section": NaN
+            },
+            {
+                "Support, Advocacy, or Social Group Name": "[Group_5]"
+            },
+            {
+                "Where did the Group Meet": "[Group_Meet_5]"
+            },
+            {
+                "When did You Join the Group": "[Group_Join_5]"
+            },
+            {
+                "Sponsoring Organization (if any)": "[Group_Sponsor_5]"
+            }
+        ],
+        "Row 1": [
+            {
+                "Support, Advocacy, or Social Group Name": "[Group_1]"
+            },
+            {
+                "Where did the Group Meet": "[Group_Meet_1]"
+            },
+            {
+                "When did You Join the Group": "[Group_Join_1]"
+            },
+            {
+                "Sponsoring Organization (if any)": "[Group_Sponsor_1]"
+            }
+        ],
+        "Row 2": [
+            {
+                "Support, Advocacy, or Social Group Name": "[Group_2]"
+            },
+            {
+                "Where did the Group Meet": "[Group_Meet_2]"
+            },
+            {
+                "When did You Join the Group": "[Group_Join_2]"
+            },
+            {
+                "Sponsoring Organization (if any)": "[Group_Sponsor_2]"
+            }
+        ],
+        "Row 3": [
+            {
+                "Support, Advocacy, or Social Group Name": "[Group_3]"
+            },
+            {
+                "Where did the Group Meet": "[Group_Meet_3]"
+            },
+            {
+                "When did You Join the Group": "[Group_Join_3]"
+            },
+            {
+                "Sponsoring Organization (if any)": "[Group_Sponsor_3]"
+            }
+        ],
+        "Row 4": [
+            {
+                "Support, Advocacy, or Social Group Name": "[Group_4]"
+            },
+            {
+                "Where did the Group Meet": "[Group_Meet_4]"
+            },
+            {
+                "When did You Join the Group": "[Group_Join_4]"
+            },
+            {
+                "Sponsoring Organization (if any)": "[Group_Sponsor_4]"
+            }
+        ],
+        "Row 6": [
+            {
+                "Support, Advocacy, or Social Group Name": "[Group_6]"
+            },
+            {
+                "Where did the Group Meet": "[Group_Meet_6]"
+            },
+            {
+                "When did You Join the Group": "[Group_Join_6]"
+            },
+            {
+                "Sponsoring Organization (if any)": "[Group_Sponsor_6]"
+            }
+        ]
+    },
+    "IV. Locations of Stored Data": {
+        "A.": [
+            {
+                "Identify any location, physical or electronic, containing Documents, including photographs or videos, relating to your hairstyle and/or your use of HAIR RELAXER PRODUCTS": "[Location]"
+            }
+        ],
+        "B.": [
+            {
+                "Identify any location, physical or electronic, containing Documents regarding your claimed injuries. ": "[Physical]"
+            }
+        ],
+        "C.": [
+            {
+                "Identify any location, physical or electronic, containing Documents regarding how you learned about the Hair Relaxer Marketing Practices and Products Liability Litigation.": "[Electronic]"
+            }
+        ]
+    },
+    "V. Injuries & Damages": {
+        "A.": [
+            {
+                "For each injury you claim was caused by your use of HAIR RELAXER PRODUCTS, state: \n\nDo not fill out this section": NaN
+            }
+        ],
+        "Injury 1": [
+            {
+                "Injury and Symptoms": "[Symptoms_1]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Diagnosis_1]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Diagnosis_1]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Diagnosis_1]"
+            },
+            {
+                "Diagnosing Healthcare Provider Name and Address": "[HC_1]"
+            },
+            {
+                "Telephone Number of Diagnosing Healthcare Provider": "[Healthcare_1]"
+            },
+            {
+                "Date(s) of Treatment": "[Treat_1]"
+            },
+            {
+                "Type(s) of Treatment": "[Types_1]"
+            },
+            {
+                "Dates Performed": "[Perform_1]"
+            },
+            {
+                "Treating Healthcare Provider Name and Address": "[Treating_1]"
+            },
+            {
+                "Telephone Number of Treating Healthcare Provider": "[Tele_1]"
+            }
+        ],
+        "Injury 2": [
+            {
+                "Injury and Symptoms": "[Symptoms_2]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Diagnosis_2]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Diagnosis_2]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Diagnosis_2]"
+            },
+            {
+                "Diagnosing Healthcare Provider Name and Address": "[HC_2]"
+            },
+            {
+                "Telephone Number of Diagnosing Healthcare Provider": "[Healthcare_2]"
+            },
+            {
+                "Date(s) of Treatment": "[Treat_2]"
+            },
+            {
+                "Type(s) of Treatment": "[Types_2]"
+            },
+            {
+                "Dates Performed": "[Perform_2]"
+            },
+            {
+                "Treating Healthcare Provider Name and Address": "[Treating_2]"
+            },
+            {
+                "Telephone Number of Treating Healthcare Provider": "[Tele_2]"
+            }
+        ],
+        "Injury 3": [
+            {
+                "Injury and Symptoms": "[Symptoms_3]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Diagnosis_3]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Diagnosis_3]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Diagnosis_3]"
+            },
+            {
+                "Diagnosing Healthcare Provider Name and Address": "[HC_3]"
+            },
+            {
+                "Telephone Number of Diagnosing Healthcare Provider": "[Healthcare_3]"
+            },
+            {
+                "Date(s) of Treatment": "[Treat_3]"
+            },
+            {
+                "Type(s) of Treatment": "[Types_3]"
+            },
+            {
+                "Dates Performed": "[Perform_3]"
+            },
+            {
+                "Treating Healthcare Provider Name and Address": "[Treating_3]"
+            },
+            {
+                "Telephone Number of Treating Healthcare Provider": "[Tele_3]"
+            }
+        ],
+        "Injury 4": [
+            {
+                "Injury and Symptoms": "[Symptoms_4]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Diagnosis_4]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Diagnosis_4]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Diagnosis_4]"
+            },
+            {
+                "Diagnosing Healthcare Provider Name and Address": "[HC_4]"
+            },
+            {
+                "Telephone Number of Diagnosing Healthcare Provider": "[Healthcare_4]"
+            },
+            {
+                "Date(s) of Treatment": "[Treat_4]"
+            },
+            {
+                "Type(s) of Treatment": "[Types_4]"
+            },
+            {
+                "Dates Performed": "[Perform_4]"
+            },
+            {
+                "Treating Healthcare Provider Name and Address": "[Treating_4]"
+            },
+            {
+                "Telephone Number of Treating Healthcare Provider": "[Tele_4]"
+            }
+        ],
+        "Injury 5": [
+            {
+                "Injury and Symptoms": "[Symptoms_5]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Diagnosis_5]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Diagnosis_5]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Diagnosis_5]"
+            },
+            {
+                "Diagnosing Healthcare Provider Name and Address": "[HC_5]"
+            },
+            {
+                "Telephone Number of Diagnosing Healthcare Provider": "[Healthcare_5]"
+            },
+            {
+                "Date(s) of Treatment": "[Treat_5]"
+            },
+            {
+                "Type(s) of Treatment": "[Types_5]"
+            },
+            {
+                "Dates Performed": "[Perform_5]"
+            },
+            {
+                "Treating Healthcare Provider Name and Address": "[Treating_5]"
+            },
+            {
+                "Telephone Number of Treating Healthcare Provider": "[Tele_5]"
+            }
+        ],
+        "B. ": [
+            {
+                "For each injury, please provide the date and describe how you first became aware that it could be caused by your use of HAIR RELAXER PRODUCTS": "[Aware]"
+            }
+        ],
+        "C.": [
+            {
+                "Have you ever had any communications with any HEALTHCARE PROVIDER, orally or in writing, about whether any of the above injuries are related to your use of HAIR RELAXER PRODUCTS": "[Communication]"
+            },
+            {
+                "If yes, or, if you are unsure, identify the name, address, phone number and approximate date of communication with said health care provider, and the injury attributed to HAIR RELAXER PRODUCTS\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Provider 1": [
+            {
+                "Name": "[HCP_Name_1]"
+            },
+            {
+                "Street": "[HCP_Street_1]"
+            },
+            {
+                "City": "[HCP_City_1]"
+            },
+            {
+                "State": "[HCP_State_1]"
+            },
+            {
+                "Zip": "[HCP_Zip_1]"
+            },
+            {
+                "Phone": "[HCP_Phone_1]"
+            },
+            {
+                "Communication Month": "[MM_Comm_1]"
+            },
+            {
+                "Communication Day": "[DD_Comm_1]"
+            },
+            {
+                "Communication Year": "[YY_Comm_1]"
+            },
+            {
+                "Injury Attributed to Hair Relaxer Products": "[Injury_1]"
+            },
+            {
+                "Name": "[Doc_Name_1]"
+            },
+            {
+                "Street": "[Doc_Street_1]"
+            },
+            {
+                "City": "[Doc_City_1]"
+            },
+            {
+                "State": "[Doc_State_1]"
+            },
+            {
+                "Zip": "[Doc_Zip_1]"
+            },
+            {
+                "Phone": "[Doc_Phone_1]"
+            },
+            {
+                "Communication Month": "[MM_Doc_1]"
+            },
+            {
+                "Communication Day": "[DD_Doc_1]"
+            },
+            {
+                "Communication Year": "[YY_Doc_1]"
+            },
+            {
+                "Injury Attributed to something other than use of Hair Relaxer Products": "[Products_1]"
+            }
+        ],
+        "Provider 2": [
+            {
+                "Name": "[HCP_Name_2]"
+            },
+            {
+                "Street": "[HCP_Street_2]"
+            },
+            {
+                "City": "[HCP_City_2]"
+            },
+            {
+                "State": "[HCP_State_2]"
+            },
+            {
+                "Zip": "[HCP_Zip_2]"
+            },
+            {
+                "Phone": "[HCP_Phone_2]"
+            },
+            {
+                "Communication Month": "[MM_Comm_2]"
+            },
+            {
+                "Communication Day": "[DD_Comm_2]"
+            },
+            {
+                "Communication Year": "[YY_Comm_2]"
+            },
+            {
+                "Injury Attributed to Hair Relaxer Products": "[Injury_2]"
+            },
+            {
+                "Name": "[Doc_Name_2]"
+            },
+            {
+                "Street": "[Doc_Street_2]"
+            },
+            {
+                "City": "[Doc_City_2]"
+            },
+            {
+                "State": "[Doc_State_2]"
+            },
+            {
+                "Zip": "[Doc_Zip_2]"
+            },
+            {
+                "Phone": "[Doc_Phone_2]"
+            },
+            {
+                "Communication Month": "[MM_Doc_2]"
+            },
+            {
+                "Communication Day": "[DD_Doc_2]"
+            },
+            {
+                "Communication Year": "[YY_Doc_2]"
+            },
+            {
+                "Injury Attributed to something other than use of Hair Relaxer Products": "[Products_2]"
+            }
+        ],
+        "Provider 3": [
+            {
+                "Name": "[HCP_Name_3]"
+            },
+            {
+                "Street": "[HCP_Street_3]"
+            },
+            {
+                "City": "[HCP_City_3]"
+            },
+            {
+                "State": "[HCP_State_3]"
+            },
+            {
+                "Zip": "[HCP_Zip_3]"
+            },
+            {
+                "Phone": "[HCP_Phone_3]"
+            },
+            {
+                "Communication Month": "[MM_Comm_3]"
+            },
+            {
+                "Communication Day": "[DD_Comm_3]"
+            },
+            {
+                "Communication Year": "[YY_Comm_3]"
+            },
+            {
+                "Injury Attributed to Hair Relaxer Products": "[Injury_3]"
+            },
+            {
+                "Name": "[Doc_Name_3]"
+            },
+            {
+                "Street": "[Doc_Street_3]"
+            },
+            {
+                "City": "[Doc_City_3]"
+            },
+            {
+                "State": "[Doc_State_3]"
+            },
+            {
+                "Zip": "[Doc_Zip_3]"
+            },
+            {
+                "Phone": "[Doc_Phone_3]"
+            },
+            {
+                "Communication Month": "[MM_Doc_3]"
+            },
+            {
+                "Communication Day": "[DD_Doc_3]"
+            },
+            {
+                "Communication Year": "[YY_Doc_3]"
+            },
+            {
+                "Injury Attributed to something other than use of Hair Relaxer Products": "[Products_3]"
+            }
+        ],
+        "D.": [
+            {
+                "Has any HEALTHCARE PROVIDER told you whether any of the above injuries is related to something other than your use of HAIR RELAXER PRODUCTS": "[Related]"
+            },
+            {
+                "If yes, or, if you are unsure, identify the name, address, telephone number and approximate date of communication with each HEALTHCARE PROVIDER and the injury attributed to something other than your use of HAIR RELAXER PRODUCTS\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Provider 4": [
+            {
+                "Name": "[Doc_Name_4]"
+            },
+            {
+                "Street": "[Doc_Street_4]"
+            },
+            {
+                "City": "[Doc_City_4]"
+            },
+            {
+                "State": "[Doc_State_4]"
+            },
+            {
+                "Zip": "[Doc_Zip_4]"
+            },
+            {
+                "Phone": "[Doc_Phone_4]"
+            },
+            {
+                "Communication Month": "[MM_Doc_4]"
+            },
+            {
+                "Communication Day": "[DD_Doc_4]"
+            },
+            {
+                "Communication Year": "[YY_Doc_4]"
+            },
+            {
+                "Injury Attributed to something other than use of Hair Relaxer Products": "[Products_4]"
+            }
+        ],
+        "Provider 5": [
+            {
+                "Name": "[Doc_Name_5]"
+            },
+            {
+                "Street": "[Doc_Street_5]"
+            },
+            {
+                "City": "[Doc_City_5]"
+            },
+            {
+                "State": "[Doc_State_5]"
+            },
+            {
+                "Zip": "[Doc_Zip_5]"
+            },
+            {
+                "Phone": "[Doc_Phone_5]"
+            },
+            {
+                "Communication Month": "[MM_Doc_5]"
+            },
+            {
+                "Communication Day": "[DD_Doc_5]"
+            },
+            {
+                "Communication Year": "[YY_Doc_5]"
+            },
+            {
+                "Injury Attributed to something other than use of Hair Relaxer Products": "[Products_5]"
+            }
+        ],
+        "E.": [
+            {
+                "Do you claim that your use of HAIR RELAXER PRODUCTS worsened a preexisting injury, illness, or disease?": "[Worse]"
+            },
+            {
+                "If yes, or, if you are unsure, for each injury, state the type of injury, illness or disease, its onset, and its resolution (if any)\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Preexisting Injury 1": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_1]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_1]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_1]"
+            }
+        ],
+        "Preexisting Injury 2": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_2]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_2]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_2]"
+            }
+        ],
+        "Preexisting Injury 3": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_3]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_3]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_3]"
+            }
+        ],
+        "Preexisting Injury 4": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_4]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_4]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_4]"
+            }
+        ],
+        "Preexisting Injury 5": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_5]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_5]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_5]"
+            }
+        ],
+        "Preexisting Injury 6": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_6]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_6]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_6]"
+            }
+        ],
+        "Preexisting Injury 7": [
+            {
+                "Type of Injury, Illness or Disease ": "[Type_7]"
+            },
+            {
+                "Onset of Injury": "[Type_Onset_7]"
+            },
+            {
+                "Resolution (if any)": "[Type_Resolution_7]"
+            }
+        ],
+        "F.": [
+            {
+                "If you discontinued your use of HAIR RELAXER PRODUCTS, did the injury you claim resulted from your use of HAIR RELAXER PRODUCTS decrease or resolve?": "[Decrease]"
+            },
+            {
+                "If yes, or, if you are unsure, for each injury, state the type of injury, symptoms, its onset, and its resolution (if any)\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Injury Decrease 1": [
+            {
+                "Type of Injury": "[Use_1]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_1]"
+            },
+            {
+                "Onset": "[Use_Onset_1]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_1]"
+            }
+        ],
+        "Injury Decrease 2": [
+            {
+                "Type of Injury": "[Use_2]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_2]"
+            },
+            {
+                "Onset": "[Use_Onset_2]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_2]"
+            }
+        ],
+        "Injury Decrease 3": [
+            {
+                "Type of Injury": "[Use_3]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_3]"
+            },
+            {
+                "Onset": "[Use_Onset_3]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_3]"
+            }
+        ],
+        "Injury Decrease 4": [
+            {
+                "Type of Injury": "[Use_4]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_4]"
+            },
+            {
+                "Onset": "[Use_Onset_4]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_4]"
+            }
+        ],
+        "Injury Decrease 5": [
+            {
+                "Type of Injury": "[Use_5]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_5]"
+            },
+            {
+                "Onset": "[Use_Onset_5]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_5]"
+            }
+        ],
+        "Injury Decrease 6": [
+            {
+                "Type of Injury": "[Use_6]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_6]"
+            },
+            {
+                "Onset": "[Use_Onset_6]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_6]"
+            }
+        ],
+        "Injury Decrease 7": [
+            {
+                "Type of Injury": "[Use_7]"
+            },
+            {
+                "Symptoms": "[Use_Symptoms_7]"
+            },
+            {
+                "Onset": "[Use_Onset_7]"
+            },
+            {
+                "Resolution (if any)": "[Use_Relationship_7]"
+            }
+        ],
+        "G.": [
+            {
+                "Has any HEALTHCARE PROVIDER recommended that you cease using HAIR RELAXER PRODUCTS": "[Cease]"
+            },
+            {
+                "If yes, or, if you are unsure, identify the name, address, phone number and approximate date of communication with said health care provider\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Provider Cease 1": [
+            {
+                "Name": "[Provider_1]"
+            },
+            {
+                "Street": "[Provider_Street_1]"
+            },
+            {
+                "City": "[Provider_City_1]"
+            },
+            {
+                "State": "[Provider_State_1]"
+            },
+            {
+                "Zip": "[Provider_Zip_1]"
+            },
+            {
+                "Phone": "[Provider_Phone_1]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_1]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_1]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_1]"
+            }
+        ],
+        "Provider Cease 2": [
+            {
+                "Name": "[Provider_2]"
+            },
+            {
+                "Street": "[Provider_Street_2]"
+            },
+            {
+                "City": "[Provider_City_2]"
+            },
+            {
+                "State": "[Provider_State_2]"
+            },
+            {
+                "Zip": "[Provider_Zip_2]"
+            },
+            {
+                "Phone": "[Provider_Phone_2]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_2]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_2]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_2]"
+            }
+        ],
+        "Provider Cease 3": [
+            {
+                "Name": "[Provider_3]"
+            },
+            {
+                "Street": "[Provider_Street_3]"
+            },
+            {
+                "City": "[Provider_City_3]"
+            },
+            {
+                "State": "[Provider_State_3]"
+            },
+            {
+                "Zip": "[Provider_Zip_3]"
+            },
+            {
+                "Phone": "[Provider_Phone_3]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_3]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_3]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_3]"
+            }
+        ],
+        "Provider Cease 4": [
+            {
+                "Name": "[Provider_4]"
+            },
+            {
+                "Street": "[Provider_Street_4]"
+            },
+            {
+                "City": "[Provider_City_4]"
+            },
+            {
+                "State": "[Provider_State_4]"
+            },
+            {
+                "Zip": "[Provider_Zip_4]"
+            },
+            {
+                "Phone": "[Provider_Phone_4]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_4]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_4]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_4]"
+            }
+        ],
+        "Provider Cease 5": [
+            {
+                "Name": "[Provider_5]"
+            },
+            {
+                "Street": "[Provider_Street_5]"
+            },
+            {
+                "City": "[Provider_City_5]"
+            },
+            {
+                "State": "[Provider_State_5]"
+            },
+            {
+                "Zip": "[Provider_Zip_5]"
+            },
+            {
+                "Phone": "[Provider_Phone_5]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_5]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_5]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_5]"
+            }
+        ],
+        "Provider Cease 6": [
+            {
+                "Name": "[Provider_6]"
+            },
+            {
+                "Street": "[Provider_Street_6]"
+            },
+            {
+                "City": "[Provider_City_6]"
+            },
+            {
+                "State": "[Provider_State_6]"
+            },
+            {
+                "Zip": "[Provider_Zip_6]"
+            },
+            {
+                "Phone": "[Provider_Phone_6]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_6]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_6]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_6]"
+            }
+        ],
+        "Provider Cease 7": [
+            {
+                "Name": "[Provider_7]"
+            },
+            {
+                "Street": "[Provider_Street_7]"
+            },
+            {
+                "City": "[Provider_City_7]"
+            },
+            {
+                "State": "[Provider_State_7]"
+            },
+            {
+                "Zip": "[Provider_Zip_7]"
+            },
+            {
+                "Phone": "[Provider_Phone_7]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_7]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_7]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_7]"
+            }
+        ],
+        "Provider Cease 8": [
+            {
+                "Name": "[Provider_8]"
+            },
+            {
+                "Street": "[Provider_Street_8]"
+            },
+            {
+                "City": "[Provider_City_8]"
+            },
+            {
+                "State": "[Provider_State_8]"
+            },
+            {
+                "Zip": "[Provider_Zip_8]"
+            },
+            {
+                "Phone": "[Provider_Phone_8]"
+            },
+            {
+                "Month of Communication": "[MM_Provider_8]"
+            },
+            {
+                "Day of Communication": "[DD_Provider_8]"
+            },
+            {
+                "Year of Communication": "[YY_Provider_8]"
+            }
+        ],
+        "H.": [
+            {
+                "Do you claim that your use of HAIR RELAXER PRODUCTS caused or aggravated any psychiatric or psychological condition": "[Psych]"
+            },
+            {
+                "If yes, or, if you are unsure, did you seek treatment for the psychiatric or psychological condition": "[Seek]"
+            },
+            {
+                "If yes, please fill out the following\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Psychiatric or Psychological Provider 1": [
+            {
+                "Name": "[Seek_Name_1]"
+            },
+            {
+                "Street": "[Seek_Street_1]"
+            },
+            {
+                "City": "[Seek_City_1]"
+            },
+            {
+                "State": "[Seek_State_1]"
+            },
+            {
+                "Zip": "[Seek_Zip_1]"
+            },
+            {
+                "Phone": "[Seek_Phone_1]"
+            },
+            {
+                "Month of Visit": "[MM_Seek_1]"
+            },
+            {
+                "Day of Visit": "[DD_Seek_1]"
+            },
+            {
+                "Year of Visit": "[YY_Seek_1]"
+            },
+            {
+                "Condition": "[Condition_1]"
+            }
+        ],
+        "Psychiatric or Psychological Provider 2": [
+            {
+                "Name": "[Seek_Name_2]"
+            },
+            {
+                "Street": "[Seek_Street_2]"
+            },
+            {
+                "City": "[Seek_City_2]"
+            },
+            {
+                "State": "[Seek_State_2]"
+            },
+            {
+                "Zip": "[Seek_Zip_2]"
+            },
+            {
+                "Phone": "[Seek_Phone_2]"
+            },
+            {
+                "Month of Visit": "[MM_Seek_2]"
+            },
+            {
+                "Day of Visit": "[DD_Seek_2]"
+            },
+            {
+                "Year of Visit": "[YY_Seek_2]"
+            },
+            {
+                "Condition": "[Condition_2]"
+            }
+        ],
+        "Psychiatric or Psychological Provider 3": [
+            {
+                "Name": "[Seek_Name_3]"
+            },
+            {
+                "Street": "[Seek_Street_3]"
+            },
+            {
+                "City": "[Seek_City_3]"
+            },
+            {
+                "State": "[Seek_State_3]"
+            },
+            {
+                "Zip": "[Seek_Zip_3]"
+            },
+            {
+                "Phone": "[Seek_Phone_3]"
+            },
+            {
+                "Month of Visit": "[MM_Seek_3]"
+            },
+            {
+                "Day of Visit": "[DD_Seek_3]"
+            },
+            {
+                "Year of Visit": "[YY_Seek_3]"
+            },
+            {
+                "Condition": "[Condition_3]"
+            }
+        ],
+        "Psychiatric or Psychological Provider 4": [
+            {
+                "Name": "[Seek_Name_4]"
+            },
+            {
+                "Street": "[Seek_Street_4]"
+            },
+            {
+                "City": "[Seek_City_4]"
+            },
+            {
+                "State": "[Seek_State_4]"
+            },
+            {
+                "Zip": "[Seek_Zip_4]"
+            },
+            {
+                "Phone": "[Seek_Phone_4]"
+            },
+            {
+                "Month of Visit": "[MM_Seek_4]"
+            },
+            {
+                "Day of Visit": "[DD_Seek_4]"
+            },
+            {
+                "Year of Visit": "[YY_Seek_4]"
+            },
+            {
+                "Condition": "[Condition_4]"
+            }
+        ],
+        "Psychiatric or Psychological Provider 5": [
+            {
+                "Name": "[Seek_Name_5]"
+            },
+            {
+                "Street": "[Seek_Street_5]"
+            },
+            {
+                "City": "[Seek_City_5]"
+            },
+            {
+                "State": "[Seek_State_5]"
+            },
+            {
+                "Zip": "[Seek_Zip_5]"
+            },
+            {
+                "Phone": "[Seek_Phone_5]"
+            },
+            {
+                "Month of Visit": "[MM_Seek_5]"
+            },
+            {
+                "Day of Visit": "[DD_Seek_5]"
+            },
+            {
+                "Year of Visit": "[YY_Seek_5]"
+            },
+            {
+                "Condition": "[Condition_5]"
+            },
+            {
+                "Do you claim that you incurred medical expenses for the alleged injury that you claim was caused by your use of HAIR RELAXER PRODUCTS": "[Medical]"
+            },
+            {
+                "Do you claim that you lost wages or suffered impairment of earning capacity because of the alleged injury that you claim was caused by HAIR RELAXER PRODUCTS": "[Suffer]"
+            },
+            {
+                "Are you making a claim for lost out-of-pocket expenses": "[Expenses]"
+            },
+            {
+                "If yes, or, if you are unsure, please identify and itemize all out-of-pocket expenses you have incurred\n\nDo not fill out this section.": NaN
+            }
+        ],
+        "Out-of-pocket 1": [
+            {
+                "Expense": "[Expense_1]"
+            },
+            {
+                "Expense Amount": "[Amount_1]"
+            }
+        ],
+        "Out-of-pocket 2": [
+            {
+                "Expense": "[Expense_2]"
+            },
+            {
+                "Expense Amount": "[Amount_2]"
+            }
+        ],
+        "Out-of-pocket 3": [
+            {
+                "Expense": "[Expense_3]"
+            },
+            {
+                "Expense Amount": "[Amount_3]"
+            }
+        ],
+        "Out-of-pocket 4": [
+            {
+                "Expense": "[Expense_4]"
+            },
+            {
+                "Expense Amount": "[Amount_4]"
+            }
+        ],
+        "Out-of-pocket 5": [
+            {
+                "Expense": "[Expense_5]"
+            },
+            {
+                "Expense Amount": "[Amount_5]"
+            }
+        ],
+        "Out-of-pocket 6": [
+            {
+                "Expense": "[Expense_6]"
+            },
+            {
+                "Expense Amount": "[Amount_6]"
+            }
+        ],
+        "Out-of-pocket 7": [
+            {
+                "Expense": "[Expense_7]"
+            },
+            {
+                "Expense Amount": "[Amount_7]"
+            }
+        ],
+        "Out-of-pocket 8": [
+            {
+                "Expense": "[Expense_8]"
+            },
+            {
+                "Expense Amount": "[Amount_8]"
+            }
+        ],
+        "Out-of-pocket 9": [
+            {
+                "Expense": "[Expense_9]"
+            },
+            {
+                "Expense Amount": "[Amount_9]"
+            },
+            {
+                "Do you or any other individual claim loss of consortium damages because of the alleged injury that you claim was caused by HAIR RELAXER PRODUCTS": "[Loss]"
+            },
+            {
+                "If yes, please identify the individual claiming loss of consortium damages, the basis for the loss of consortium claim\n\nDo not fill out this section.": NaN
+            }
+        ],
+        "Loss of Consortium 1": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_1]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_1]"
+            }
+        ],
+        "Loss of Consortium 2": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_2]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_2]"
+            }
+        ],
+        "Loss of Consortium 3": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_3]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_3]"
+            }
+        ],
+        "Loss of Consortium 4": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_4]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_4]"
+            }
+        ],
+        "Loss of Consortium 5": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_5]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_5]"
+            }
+        ],
+        "Loss of Consortium 6": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_6]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_6]"
+            }
+        ],
+        "Loss of Consortium 7": [
+            {
+                "Individual Claiming Loss of Consortium Damages": "[Loss_7]"
+            },
+            {
+                "Basis for the Loss of Consortium Claim": "[Basis_7]"
+            }
+        ]
+    },
+    "VI. Product Identification": {
+        "A.": [
+            {
+                "For each HAIR RELAXER PRODUCT you claim caused and/or contributed to your injury(ies), state:\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Product 1": [
+            {
+                "Defendant 1": "[Afam_1]"
+            },
+            {
+                "Defendant 2": "[Beauty_1]"
+            },
+            {
+                "Defendant 3": "[Revlon_1]"
+            },
+            {
+                "Defendant 4": "[Nature_1]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_1]"
+            },
+            {
+                "Product": "[Texture_1]"
+            },
+            {
+                "Other Product": "[Other_Product_1]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_1]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_1]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_1]"
+            }
+        ],
+        "Product 2": [
+            {
+                "Defendant 1": "[Afam_2]"
+            },
+            {
+                "Defendant 2": "[Beauty_2]"
+            },
+            {
+                "Defendant 3": "[Revlon_2]"
+            },
+            {
+                "Defendant 4": "[Nature_2]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_2]"
+            },
+            {
+                "Product": "[Texture_2]"
+            },
+            {
+                "Other Product": "[Other_Product_2]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_2]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_2]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_2]"
+            }
+        ],
+        "Product 3": [
+            {
+                "Defendant 1": "[Afam_3]"
+            },
+            {
+                "Defendant 2": "[Beauty_3]"
+            },
+            {
+                "Defendant 3": "[Revlon_3]"
+            },
+            {
+                "Defendant 4": "[Nature_3]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_3]"
+            },
+            {
+                "Product": "[Texture_3]"
+            },
+            {
+                "Other Product": "[Other_Product_3]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_3]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_3]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_3]"
+            }
+        ],
+        "Product 4": [
+            {
+                "Defendant 1": "[Afam_4]"
+            },
+            {
+                "Defendant 2": "[Beauty_4]"
+            },
+            {
+                "Defendant 3": "[Revlon_4]"
+            },
+            {
+                "Defendant 4": "[Nature_4]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_4]"
+            },
+            {
+                "Product": "[Texture_4]"
+            },
+            {
+                "Other Product": "[Other_Product_4]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_4]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_4]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_4]"
+            }
+        ],
+        "Product 5": [
+            {
+                "Defendant 1": "[Afam_5]"
+            },
+            {
+                "Defendant 2": "[Beauty_5]"
+            },
+            {
+                "Defendant 3": "[Revlon_5]"
+            },
+            {
+                "Defendant 4": "[Nature_5]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_5]"
+            },
+            {
+                "Product": "[Texture_5]"
+            },
+            {
+                "Other Product": "[Other_Product_5]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_5]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_5]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_5]"
+            }
+        ],
+        "Product 6": [
+            {
+                "Defendant 1": "[Afam_6]"
+            },
+            {
+                "Defendant 2": "[Beauty_6]"
+            },
+            {
+                "Defendant 3": "[Revlon_6]"
+            },
+            {
+                "Defendant 4": "[Nature_6]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_6]"
+            },
+            {
+                "Product": "[Texture_6]"
+            },
+            {
+                "Other Product": "[Other_Product_6]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_6]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_6]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_6]"
+            }
+        ],
+        "Product 7": [
+            {
+                "Defendant 1": "[Afam_7]"
+            },
+            {
+                "Defendant 2": "[Beauty_7]"
+            },
+            {
+                "Defendant 3": "[Revlon_7]"
+            },
+            {
+                "Defendant 4": "[Nature_7]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_7]"
+            },
+            {
+                "Product": "[Texture_7]"
+            },
+            {
+                "Other Product": "[Other_Product_7]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_7]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_7]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_7]"
+            }
+        ],
+        "Product 8": [
+            {
+                "Defendant 1": "[Afam_8]"
+            },
+            {
+                "Defendant 2": "[Beauty_8]"
+            },
+            {
+                "Defendant 3": "[Revlon_8]"
+            },
+            {
+                "Defendant 4": "[Nature_8]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_8]"
+            },
+            {
+                "Product": "[Texture_8]"
+            },
+            {
+                "Other Product": "[Other_Product_8]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_8]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_8]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_8]"
+            }
+        ],
+        "Product 9": [
+            {
+                "Defendant 1": "[Afam_9]"
+            },
+            {
+                "Defendant 2": "[Beauty_9]"
+            },
+            {
+                "Defendant 3": "[Revlon_9]"
+            },
+            {
+                "Defendant 4": "[Nature_9]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_9]"
+            },
+            {
+                "Product": "[Texture_9]"
+            },
+            {
+                "Other Product": "[Other_Product_9]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_9]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_9]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_9]"
+            }
+        ],
+        "Product 10": [
+            {
+                "Defendant 1": "[Afam_10]"
+            },
+            {
+                "Defendant 2": "[Beauty_10]"
+            },
+            {
+                "Defendant 3": "[Revlon_10]"
+            },
+            {
+                "Defendant 4": "[Nature_10]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_10]"
+            },
+            {
+                "Product": "[Texture_10]"
+            },
+            {
+                "Other Product": "[Other_Product_10]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_10]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_10]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_10]"
+            }
+        ],
+        "Product 11": [
+            {
+                "Defendant 1": "[Afam_11]"
+            },
+            {
+                "Defendant 2": "[Beauty_11]"
+            },
+            {
+                "Defendant 3": "[Revlon_11]"
+            },
+            {
+                "Defendant 4": "[Nature_11]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_11]"
+            },
+            {
+                "Product": "[Texture_11]"
+            },
+            {
+                "Other Product": "[Other_Product_11]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_11]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_11]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_11]"
+            }
+        ],
+        "Product 12": [
+            {
+                "Defendant 1": "[Afam_12]"
+            },
+            {
+                "Defendant 2": "[Beauty_12]"
+            },
+            {
+                "Defendant 3": "[Revlon_12]"
+            },
+            {
+                "Defendant 4": "[Nature_12]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_12]"
+            },
+            {
+                "Product": "[Texture_12]"
+            },
+            {
+                "Other Product": "[Other_Product_12]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_12]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_12]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_12]"
+            }
+        ],
+        "Product 13": [
+            {
+                "Defendant 1": "[Afam_13]"
+            },
+            {
+                "Defendant 2": "[Beauty_13]"
+            },
+            {
+                "Defendant 3": "[Revlon_13]"
+            },
+            {
+                "Defendant 4": "[Nature_13]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_13]"
+            },
+            {
+                "Product": "[Texture_13]"
+            },
+            {
+                "Other Product": "[Other_Product_13]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_13]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_13]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_13]"
+            }
+        ],
+        "Product 14": [
+            {
+                "Defendant 1": "[Afam_14]"
+            },
+            {
+                "Defendant 2": "[Beauty_14]"
+            },
+            {
+                "Defendant 3": "[Revlon_14]"
+            },
+            {
+                "Defendant 4": "[Nature_14]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_14]"
+            },
+            {
+                "Product": "[Texture_14]"
+            },
+            {
+                "Other Product": "[Other_Product_14]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_14]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_14]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_14]"
+            }
+        ],
+        "Product 15": [
+            {
+                "Defendant 1": "[Afam_15]"
+            },
+            {
+                "Defendant 2": "[Beauty_15]"
+            },
+            {
+                "Defendant 3": "[Revlon_15]"
+            },
+            {
+                "Defendant 4": "[Nature_15]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_15]"
+            },
+            {
+                "Product": "[Texture_15]"
+            },
+            {
+                "Other Product": "[Other_Product_15]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_15]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_15]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_15]"
+            }
+        ],
+        "Product 16": [
+            {
+                "Defendant 1": "[Afam_16]"
+            },
+            {
+                "Defendant 2": "[Beauty_16]"
+            },
+            {
+                "Defendant 3": "[Revlon_16]"
+            },
+            {
+                "Defendant 4": "[Nature_16]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_16]"
+            },
+            {
+                "Product": "[Texture_16]"
+            },
+            {
+                "Other Product": "[Other_Product_16]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_16]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_16]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_16]"
+            }
+        ],
+        "Product 17": [
+            {
+                "Defendant 1": "[Afam_17]"
+            },
+            {
+                "Defendant 2": "[Beauty_17]"
+            },
+            {
+                "Defendant 3": "[Revlon_17]"
+            },
+            {
+                "Defendant 4": "[Nature_17]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_17]"
+            },
+            {
+                "Product": "[Texture_17]"
+            },
+            {
+                "Other Product": "[Other_Product_17]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_17]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_17]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_17]"
+            }
+        ],
+        "Product 18": [
+            {
+                "Defendant 1": "[Afam_18]"
+            },
+            {
+                "Defendant 2": "[Beauty_18]"
+            },
+            {
+                "Defendant 3": "[Revlon_18]"
+            },
+            {
+                "Defendant 4": "[Nature_18]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_18]"
+            },
+            {
+                "Product": "[Texture_18]"
+            },
+            {
+                "Other Product": "[Other_Product_18]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_18]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_18]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_18]"
+            }
+        ],
+        "Product 19": [
+            {
+                "Defendant 1": "[Afam_19]"
+            },
+            {
+                "Defendant 2": "[Beauty_19]"
+            },
+            {
+                "Defendant 3": "[Revlon_19]"
+            },
+            {
+                "Defendant 4": "[Nature_19]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_19]"
+            },
+            {
+                "Product": "[Texture_19]"
+            },
+            {
+                "Other Product": "[Other_Product_19]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_19]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_19]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_19]"
+            }
+        ],
+        "Product 20": [
+            {
+                "Defendant 1": "[Afam_20]"
+            },
+            {
+                "Defendant 2": "[Beauty_20]"
+            },
+            {
+                "Defendant 3": "[Revlon_20]"
+            },
+            {
+                "Defendant 4": "[Nature_20]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_20]"
+            },
+            {
+                "Product": "[Texture_20]"
+            },
+            {
+                "Other Product": "[Other_Product_20]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_20]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_20]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_20]"
+            }
+        ],
+        "Product 21": [
+            {
+                "Defendant 1": "[Afam_21]"
+            },
+            {
+                "Defendant 2": "[Beauty_21]"
+            },
+            {
+                "Defendant 3": "[Revlon_21]"
+            },
+            {
+                "Defendant 4": "[Nature_21]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_21]"
+            },
+            {
+                "Product": "[Texture_21]"
+            },
+            {
+                "Other Product": "[Other_Product_21]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_21]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_21]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_21]"
+            }
+        ],
+        "Product 22": [
+            {
+                "Defendant 1": "[Afam_22]"
+            },
+            {
+                "Defendant 2": "[Beauty_22]"
+            },
+            {
+                "Defendant 3": "[Revlon_22]"
+            },
+            {
+                "Defendant 4": "[Nature_22]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_22]"
+            },
+            {
+                "Product": "[Texture_22]"
+            },
+            {
+                "Other Product": "[Other_Product_22]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_22]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_22]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_22]"
+            }
+        ],
+        "Product 23": [
+            {
+                "Defendant 1": "[Afam_23]"
+            },
+            {
+                "Defendant 2": "[Beauty_23]"
+            },
+            {
+                "Defendant 3": "[Revlon_23]"
+            },
+            {
+                "Defendant 4": "[Nature_23]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_23]"
+            },
+            {
+                "Product": "[Texture_23]"
+            },
+            {
+                "Other Product": "[Other_Product_23]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_23]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_23]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_23]"
+            }
+        ],
+        "Product 24": [
+            {
+                "Defendant 1": "[Afam_24]"
+            },
+            {
+                "Defendant 2": "[Beauty_24]"
+            },
+            {
+                "Defendant 3": "[Revlon_24]"
+            },
+            {
+                "Defendant 4": "[Nature_24]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_24]"
+            },
+            {
+                "Product": "[Texture_24]"
+            },
+            {
+                "Other Product": "[Other_Product_24]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_24]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_24]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_24]"
+            }
+        ],
+        "Product 25": [
+            {
+                "Defendant 1": "[Afam_25]"
+            },
+            {
+                "Defendant 2": "[Beauty_25]"
+            },
+            {
+                "Defendant 3": "[Revlon_25]"
+            },
+            {
+                "Defendant 4": "[Nature_25]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_25]"
+            },
+            {
+                "Product": "[Texture_25]"
+            },
+            {
+                "Other Product": "[Other_Product_25]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_25]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_25]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_25]"
+            }
+        ],
+        "Product 26": [
+            {
+                "Defendant 1": "[Afam_26]"
+            },
+            {
+                "Defendant 2": "[Beauty_26]"
+            },
+            {
+                "Defendant 3": "[Revlon_26]"
+            },
+            {
+                "Defendant 4": "[Nature_26]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_26]"
+            },
+            {
+                "Product": "[Texture_26]"
+            },
+            {
+                "Other Product": "[Other_Product_26]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_26]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_26]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_26]"
+            }
+        ],
+        "Product 27": [
+            {
+                "Defendant 1": "[Afam_27]"
+            },
+            {
+                "Defendant 2": "[Beauty_27]"
+            },
+            {
+                "Defendant 3": "[Revlon_27]"
+            },
+            {
+                "Defendant 4": "[Nature_27]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_27]"
+            },
+            {
+                "Product": "[Texture_27]"
+            },
+            {
+                "Other Product": "[Other_Product_27]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_27]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_27]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_27]"
+            }
+        ],
+        "Product 28": [
+            {
+                "Defendant 1": "[Afam_28]"
+            },
+            {
+                "Defendant 2": "[Beauty_28]"
+            },
+            {
+                "Defendant 3": "[Revlon_28]"
+            },
+            {
+                "Defendant 4": "[Nature_28]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_28]"
+            },
+            {
+                "Product": "[Texture_28]"
+            },
+            {
+                "Other Product": "[Other_Product_28]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_28]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_28]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_28]"
+            }
+        ],
+        "Product 29": [
+            {
+                "Defendant 1": "[Afam_29]"
+            },
+            {
+                "Defendant 2": "[Beauty_29]"
+            },
+            {
+                "Defendant 3": "[Revlon_29]"
+            },
+            {
+                "Defendant 4": "[Nature_29]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_29]"
+            },
+            {
+                "Product": "[Texture_29]"
+            },
+            {
+                "Other Product": "[Other_Product_29]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_29]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_29]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_29]"
+            }
+        ],
+        "Product 30": [
+            {
+                "Defendant 1": "[Afam_30]"
+            },
+            {
+                "Defendant 2": "[Beauty_30]"
+            },
+            {
+                "Defendant 3": "[Revlon_30]"
+            },
+            {
+                "Defendant 4": "[Nature_30]"
+            },
+            {
+                "Additional Defendant(s)": "[Other_Defendant_30]"
+            },
+            {
+                "Product": "[Texture_30]"
+            },
+            {
+                "Other Product": "[Other_Product_30]"
+            },
+            {
+                "Date(s) of Use \nMay be Approximate": "[Product_Date_30]"
+            },
+            {
+                "Frequency of Use": "[Product_Use_30]"
+            },
+            {
+                "Place(s) of Use, including state and city [if known]": "[Product_Place_30]"
+            }
+        ],
+        "B.": [
+            {
+                "For each injury you listed in Section VI.A. of the Plaintiff Fact Sheet in this litigation, Identify and Describe other causes known to You of such injury?": "[Caused]"
+            }
+        ],
+        "C.": [
+            {
+                "Did you have any HAIR RELAXER PRODUCT, OTHER HAIR CARE PRODUCT, or OTHER HAIR TREATMENTS applied at a hair salon": "[Applied]"
+            }
+        ],
+        "D.": [
+            {
+                "If YES, or, if you are unsure, provide in the chart below the name and location of each salon where you received application of a HAIR RELAXER PRODUCT, OTHER HAIR CARE PRODUCT, or OTHER HAIR TREATMENTS, the dates of application and the product applied\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Salon 1": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_1]"
+            },
+            {
+                "Salon": "[Salon_1]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_1]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_1]"
+            }
+        ],
+        "Salon 2": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_2]"
+            },
+            {
+                "Salon": "[Salon_2]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_2]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_2]"
+            }
+        ],
+        "Salon 3": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_3]"
+            },
+            {
+                "Salon": "[Salon_3]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_3]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_3]"
+            }
+        ],
+        "Salon 4": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_4]"
+            },
+            {
+                "Salon": "[Salon_4]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_4]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_4]"
+            }
+        ],
+        "Salon 5": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_5]"
+            },
+            {
+                "Salon": "[Salon_5]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_5]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_5]"
+            }
+        ],
+        "Salon 6": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_6]"
+            },
+            {
+                "Salon": "[Salon_6]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_6]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_6]"
+            }
+        ],
+        "Salon 7": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_7]"
+            },
+            {
+                "Salon": "[Salon_7]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_7]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_7]"
+            }
+        ],
+        "Salon 8": [
+            {
+                "Date of Application\n\n(May be Approximate)": "[Salon_Dates_8]"
+            },
+            {
+                "Salon": "[Salon_8]"
+            },
+            {
+                "Salon Location - State and City (if known)": "[Salon_Location_8]"
+            },
+            {
+                "Hair Relaxer Product Applied": "[Salon_Product_8]"
+            }
+        ],
+        "E. Retailers": [
+            {
+                "Identify each pharmacy, drugstore, and/or other retailer (including mail order) where you have purchased HAIR RELAXER PRODUCTS in the past ten (10) years\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Retailer 1": [
+            {
+                "Product Name": "[Product_1]"
+            },
+            {
+                "Place(s) of Purchase, Including Business Name, and Including State, City and Address [if known]": "[Business_1]"
+            },
+            {
+                "Dates": "[DOP_1]"
+            },
+            {
+                "Number of Products Purchased": "[Purchases_1]"
+            }
+        ],
+        "Retailer 2": [
+            {
+                "Product Name": "[Product_2]"
+            },
+            {
+                "Place(s) of Purchase, Including Business Name, and Including State, City and Address [if known]": "[Business_2]"
+            },
+            {
+                "Dates": "[DOP_2]"
+            },
+            {
+                "Number of Products Purchased": "[Purchases_2]"
+            }
+        ],
+        "Retailer 3": [
+            {
+                "Product Name": "[Product_3]"
+            },
+            {
+                "Place(s) of Purchase, Including Business Name, and Including State, City and Address [if known]": "[Business_3]"
+            },
+            {
+                "Dates": "[DOP_3]"
+            },
+            {
+                "Number of Products Purchased": "[Purchases_3]"
+            }
+        ],
+        "Retailer 4": [
+            {
+                "Product Name": "[Product_4]"
+            },
+            {
+                "Place(s) of Purchase, Including Business Name, and Including State, City and Address [if known]": "[Business_4]"
+            },
+            {
+                "Dates": "[DOP_4]"
+            },
+            {
+                "Number of Products Purchased": "[Purchases_4]"
+            }
+        ],
+        "II.": [
+            {
+                "Do you have a store card (including any debit, credit, or frequent buyer/loyalty card) for any retailer identified above": "[Card]"
+            },
+            {
+                "If yes, state the store, card number, name and telephone number associated with the account\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Store 1": [
+            {
+                "Store Name": "[Store_1]"
+            },
+            {
+                "Card Number": "[Card_1]"
+            },
+            {
+                "Name Associated with Account": "[Store_Name_1]"
+            },
+            {
+                "Phone Associated with Account": "[Store_Phone_1]"
+            }
+        ],
+        "Store 2": [
+            {
+                "Store Name": "[Store_2]"
+            },
+            {
+                "Card Number": "[Card_2]"
+            },
+            {
+                "Name Associated with Account": "[Store_Name_2]"
+            },
+            {
+                "Phone Associated with Account": "[Store_Phone_2]"
+            }
+        ],
+        "Store 3": [
+            {
+                "Store Name": "[Store_3]"
+            },
+            {
+                "Card Number": "[Card_3]"
+            },
+            {
+                "Name Associated with Account": "[Store_Name_3]"
+            },
+            {
+                "Phone Associated with Account": "[Store_Phone_3]"
+            }
+        ],
+        "F. Advertisements": [
+            {
+                "Have you ever seen any advertisements (e.g., in magazines, television commercials, internet, radio, point of sale, social media, outdoor) for any HAIR RELAXER PRODUCT": "[Advertisement]"
+            },
+            {
+                "If \u00f4Yes,\u00f6 identify the advertisement, summary of its content, the product being advertised and approximately when you saw the advertisement\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Advertisement 1": [
+            {
+                "Advertisement": "[Ad_1]"
+            },
+            {
+                "Summary of Content": "[Ad_Content_1]"
+            },
+            {
+                "Product Being Advertised": "[Ad_Product_1]"
+            },
+            {
+                "Approximately when You Saw the Advertisement": "[Ad_View_1]"
+            }
+        ],
+        "Advertisement 2": [
+            {
+                "Advertisement": "[Ad_2]"
+            },
+            {
+                "Summary of Content": "[Ad_Content_2]"
+            },
+            {
+                "Product Being Advertised": "[Ad_Product_2]"
+            },
+            {
+                "Approximately when You Saw the Advertisement": "[Ad_View_2]"
+            }
+        ],
+        "Advertisement 3": [
+            {
+                "Advertisement": "[Ad_3]"
+            },
+            {
+                "Summary of Content": "[Ad_Content_3]"
+            },
+            {
+                "Product Being Advertised": "[Ad_Product_3]"
+            },
+            {
+                "Approximately when You Saw the Advertisement": "[Ad_View_3]"
+            }
+        ],
+        "G. Current Use": [
+            {
+                "Are you currently using HAIR RELAXER PRODUCTS": "[Current]"
+            }
+        ],
+        "H. Written Instructions or Warnings": [
+            {
+                "Were you ever given any written instructions or warnings, including in/on any packaging, package inserts, or literature, regarding HAIR RELAXER PRODUCTS": "[Ever]"
+            },
+            {
+                "If yes, please describe the instructions or warnings. If you have the instructions or warnings, please produce them": "[Instructions]"
+            }
+        ],
+        "I. Oral Instructions or Warnings": [
+            {
+                "Were you given any oral instructions or warnings from any individual regarding HAIR RELAXER PRODUCTS": "[Warnings]"
+            },
+            {
+                "If yes, please identify each individual who provided the oral instructions, including their name, address, and telephone number, and identify the product and what those instructions or warning were\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Individual Oral Instructions 1": [
+            {
+                "Individual who Provided Oral Instructions": "[Oral_1]"
+            },
+            {
+                "Street": "[Oral_Street_1]"
+            },
+            {
+                "City": "[Oral_City_1]"
+            },
+            {
+                "State": "[Oral_State_1]"
+            },
+            {
+                "Zip": "[Oral_Zip_1]"
+            },
+            {
+                "Telephone": "[Oral_Phone_1]"
+            },
+            {
+                "Product": "[Oral_Product_1]"
+            },
+            {
+                "Instructions or Warning Given": "[Oral_Warning_1]"
+            }
+        ],
+        "Individual Oral Instructions 2": [
+            {
+                "Individual who Provided Oral Instructions": "[Oral_2]"
+            },
+            {
+                "Street": "[Oral_Street_2]"
+            },
+            {
+                "City": "[Oral_City_2]"
+            },
+            {
+                "State": "[Oral_State_2]"
+            },
+            {
+                "Zip": "[Oral_Zip_2]"
+            },
+            {
+                "Telephone": "[Oral_Phone_2]"
+            },
+            {
+                "Product": "[Oral_Product_2]"
+            },
+            {
+                "Instructions or Warning Given": "[Oral_Warning_2]"
+            }
+        ],
+        "Individual Oral Instructions 3": [
+            {
+                "Individual who Provided Oral Instructions": "[Oral_3]"
+            },
+            {
+                "Street": "[Oral_Street_3]"
+            },
+            {
+                "City": "[Oral_City_3]"
+            },
+            {
+                "State": "[Oral_State_3]"
+            },
+            {
+                "Zip": "[Oral_Zip_3]"
+            },
+            {
+                "Telephone": "[Oral_Phone_3]"
+            },
+            {
+                "Product": "[Oral_Product_3]"
+            },
+            {
+                "Instructions or Warning Given": "[Oral_Warning_3]"
+            }
+        ],
+        "J.": [
+            {
+                "J.\tFor each HAIR RELAXER PRODUCT identified above in your response to VI. A., describe any risk or warning that you allege is or was not adequately disclosed on their labels": "[Risk]"
+            }
+        ],
+        "K.": [
+            {
+                "Have You (as defined above) had any communication, oral or written, with any of the defendants regarding Hair Relaxer Products and/or your injuries, including any current or former employee or agent, or any representatives of any defendant prior October 21, 2022": "[Written]"
+            },
+            {
+                "If yes, please identify\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Defendant Communicated 1": [
+            {
+                "Defendant": "[Defendant_1]"
+            },
+            {
+                "Month of Communication": "[MM_Def_1]"
+            },
+            {
+                "Day of Communication": "[DD_Def_1]"
+            },
+            {
+                "Year of Communication": "[YY_Def_1]"
+            },
+            {
+                "Method of Communication": "[Method_1]"
+            },
+            {
+                "Name of Representative": "[Rep_Name_1]"
+            },
+            {
+                "Substance of Communication": "[Substance_1]"
+            }
+        ],
+        "Defendant Communicated 2": [
+            {
+                "Defendant": "[Defendant_2]"
+            },
+            {
+                "Month of Communication": "[MM_Def_2]"
+            },
+            {
+                "Day of Communication": "[DD_Def_2]"
+            },
+            {
+                "Year of Communication": "[YY_Def_2]"
+            },
+            {
+                "Method of Communication": "[Method_2]"
+            },
+            {
+                "Name of Representative": "[Rep_Name_2]"
+            },
+            {
+                "Substance of Communication": "[Substance_2]"
+            }
+        ],
+        "L.": [
+            {
+                "Have You had any communication, oral or written, with any other manufacturer of HAIR RELAXER PRODUCTS (other than Defendants), regarding Hair Relaxer Products and/or your injuries including any current or former employee or agent, or any representatives of such manufacturer prior October 21, 2022": "[Employee]"
+            }
+        ],
+        "Manufacturer 1": [
+            {
+                "Manufacturer": "[Man_1]"
+            },
+            {
+                "Month of Communication": "[MM_Man_1]"
+            },
+            {
+                "Day of Communication": "[DD_Man_1]"
+            },
+            {
+                "Year of Communication": "[YY_Man_1]"
+            },
+            {
+                "Method of Communication": "[Comm_1]"
+            },
+            {
+                "Name of Representative": "[Agent_1]"
+            },
+            {
+                "Substance of Communication": "[Talk_1]"
+            }
+        ],
+        "Manufacturer 2": [
+            {
+                "Manufacturer": "[Man_2]"
+            },
+            {
+                "Month of Communication": "[MM_Man_2]"
+            },
+            {
+                "Day of Communication": "[DD_Man_2]"
+            },
+            {
+                "Year of Communication": "[YY_Man_2]"
+            },
+            {
+                "Method of Communication": "[Comm_2]"
+            },
+            {
+                "Name of Representative": "[Agent_2]"
+            },
+            {
+                "Substance of Communication": "[Talk_2]"
+            }
+        ],
+        "M.": [
+            {
+                "Have You (as defined) communicated with the Food and Drug Administration, the Centers for Disease Control and Prevention, the National Institutes of Health, or any other government or regulatory agency regarding HAIR RELAXER PRODUCTS prior October 21, 2022": "[Drug]"
+            }
+        ],
+        "Government or Regulatory Agency 1": [
+            {
+                "Government or Regulatory Agency": "[Agency_1]"
+            },
+            {
+                "Month of Communication": "[MM_Agency_1]"
+            },
+            {
+                "Day of Communication": "[DD_Agency_1]"
+            },
+            {
+                "Year of Communication": "[YY_Agency_1]"
+            },
+            {
+                "Subject of Communication": "[Agency_Subject_1]"
+            }
+        ],
+        "Government or Regulatory Agency 2": [
+            {
+                "Government or Regulatory Agency": "[Agency_2]"
+            },
+            {
+                "Month of Communication": "[MM_Agency_2]"
+            },
+            {
+                "Day of Communication": "[DD_Agency_2]"
+            },
+            {
+                "Year of Communication": "[YY_Agency_2]"
+            },
+            {
+                "Subject of Communication": "[Agency_Subject_2]"
+            }
+        ],
+        "N.": [
+            {
+                "Have You (as defined above) communicated with the authors of the Chang Study, the White Study, or any other study cited in the Master Long Form Complaint or Master Long Form Class complaint filed in MDL 3060 prior to October 21, 2022": "[Study]"
+            },
+            {
+                "If yes, state the person(s) you communicated with, the date of the communication, and the subject of the communication\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Study Communicated 1": [
+            {
+                "Person(s) Communicated With": "[Study_1]"
+            },
+            {
+                "Month of Communication": "[MM_Study_1]"
+            },
+            {
+                "Day of Communication": "[DD_Study_1]"
+            },
+            {
+                "Year of Communication": "[YY_Study_1]"
+            },
+            {
+                "Subject of Communication": "[Study_Subject_1]"
+            }
+        ],
+        "Study Communicated 2": [
+            {
+                "Person(s) Communicated With": "[Study_2]"
+            },
+            {
+                "Month of Communication": "[MM_Study_2]"
+            },
+            {
+                "Day of Communication": "[DD_Study_2]"
+            },
+            {
+                "Year of Communication": "[YY_Study_2]"
+            },
+            {
+                "Subject of Communication": "[Study_Subject_2]"
+            }
+        ],
+        "Study Communicated 3": [
+            {
+                "Person(s) Communicated With": "[Study_3]"
+            },
+            {
+                "Month of Communication": "[MM_Study_3]"
+            },
+            {
+                "Day of Communication": "[DD_Study_3]"
+            },
+            {
+                "Year of Communication": "[YY_Study_3]"
+            },
+            {
+                "Subject of Communication": "[Study_Subject_3]"
+            }
+        ],
+        "Study Communicated 4": [
+            {
+                "Person(s) Communicated With": "[Study_4]"
+            },
+            {
+                "Month of Communication": "[MM_Study_4]"
+            },
+            {
+                "Day of Communication": "[DD_Study_4]"
+            },
+            {
+                "Year of Communication": "[YY_Study_4]"
+            },
+            {
+                "Subject of Communication": "[Study_Subject_4]"
+            }
+        ],
+        "O.": [
+            {
+                "Were you a study participant in any study or research regarding hair relaxers": "[Participate]"
+            },
+            {
+                "If yes, identify the studies or research that You participated in and contact information of the administrator": "[Contact]"
+            }
+        ]
+    },
+    "VII. Health Information": {
+        "A. Vital Statistics": [
+            {
+                "Current weight": "[Weight]"
+            },
+            {
+                "Current height": "[Height]"
+            },
+            {
+                "Month of alleged diagnosed injury": "[MM_Injury]"
+            },
+            {
+                "Day of alleged diagnosed injury": "[DD_Injury]"
+            },
+            {
+                "Year of alleged diagnosed injury": "[YY_Injury]"
+            },
+            {
+                "Weight at time of diagnosed injury": "[Weight_Time]"
+            },
+            {
+                "Highest weight at any time": "[Weight_High]"
+            }
+        ],
+        "B. Pregnancies": [
+            {
+                "Have you ever been pregnant\n\nChoose your answer:": "[Pregnant]"
+            },
+            {
+                "Number of pregnancies": "[Pregnancy_Number]"
+            },
+            {
+                "If you have chidlren, please state the following for EACH child:\n\nDo not fill out this section.": NaN
+            }
+        ],
+        "Child 1": [
+            {
+                "Name": "[Child_1]"
+            },
+            {
+                "Street": "[Child_Street_1]"
+            },
+            {
+                "City": "[Child_City_1]"
+            },
+            {
+                "State": "[Child_State_1]"
+            },
+            {
+                "Zip": "[Child_Zip_1]"
+            },
+            {
+                "Month of Birth": "[MM_Child_1]"
+            },
+            {
+                "Day of Birth": "[DD_Child_1]"
+            },
+            {
+                "Year of Birth": "[YY_Child_1]"
+            }
+        ],
+        "Child 2": [
+            {
+                "Name": "[Child_2]"
+            },
+            {
+                "Street": "[Child_Street_2]"
+            },
+            {
+                "City": "[Child_City_2]"
+            },
+            {
+                "State": "[Child_State_2]"
+            },
+            {
+                "Zip": "[Child_Zip_2]"
+            },
+            {
+                "Month of Birth": "[MM_Child_2]"
+            },
+            {
+                "Day of Birth": "[DD_Child_2]"
+            },
+            {
+                "Year of Birth": "[YY_Child_2]"
+            }
+        ],
+        "Child 3": [
+            {
+                "Name": "[Child_3]"
+            },
+            {
+                "Street": "[Child_Street_3]"
+            },
+            {
+                "City": "[Child_City_3]"
+            },
+            {
+                "State": "[Child_State_3]"
+            },
+            {
+                "Zip": "[Child_Zip_3]"
+            },
+            {
+                "Month of Birth": "[MM_Child_3]"
+            },
+            {
+                "Day of Birth": "[DD_Child_3]"
+            },
+            {
+                "Year of Birth": "[YY_Child_3]"
+            }
+        ],
+        "Child 4": [
+            {
+                "Name": "[Child_4]"
+            },
+            {
+                "Street": "[Child_Street_4]"
+            },
+            {
+                "City": "[Child_City_4]"
+            },
+            {
+                "State": "[Child_State_4]"
+            },
+            {
+                "Zip": "[Child_Zip_4]"
+            },
+            {
+                "Month of Birth": "[MM_Child_4]"
+            },
+            {
+                "Day of Birth": "[DD_Child_4]"
+            },
+            {
+                "Year of Birth": "[YY_Child_4]"
+            }
+        ],
+        "Child 5": [
+            {
+                "Name": "[Child_5]"
+            },
+            {
+                "Street": "[Child_Street_5]"
+            },
+            {
+                "City": "[Child_City_5]"
+            },
+            {
+                "State": "[Child_State_5]"
+            },
+            {
+                "Zip": "[Child_Zip_5]"
+            },
+            {
+                "Month of Birth": "[MM_Child_5]"
+            },
+            {
+                "Day of Birth": "[DD_Child_5]"
+            },
+            {
+                "Year of Birth": "[YY_Child_5]"
+            }
+        ],
+        "Child 6": [
+            {
+                "Name": "[Child_6]"
+            },
+            {
+                "Street": "[Child_Street_6]"
+            },
+            {
+                "City": "[Child_City_6]"
+            },
+            {
+                "State": "[Child_State_6]"
+            },
+            {
+                "Zip": "[Child_Zip_6]"
+            },
+            {
+                "Month of Birth": "[MM_Child_6]"
+            },
+            {
+                "Day of Birth": "[DD_Child_6]"
+            },
+            {
+                "Year of Birth": "[YY_Child_6]"
+            }
+        ],
+        "Child 7": [
+            {
+                "Name": "[Child_7]"
+            },
+            {
+                "Street": "[Child_Street_7]"
+            },
+            {
+                "City": "[Child_City_7]"
+            },
+            {
+                "State": "[Child_State_7]"
+            },
+            {
+                "Zip": "[Child_Zip_7]"
+            },
+            {
+                "Month of Birth": "[MM_Child_7]"
+            },
+            {
+                "Day of Birth": "[DD_Child_7]"
+            },
+            {
+                "Year of Birth": "[YY_Child_7]"
+            }
+        ],
+        "Child 8": [
+            {
+                "Name": "[Child_8]"
+            },
+            {
+                "Street": "[Child_Street_8]"
+            },
+            {
+                "City": "[Child_City_8]"
+            },
+            {
+                "State": "[Child_State_8]"
+            },
+            {
+                "Zip": "[Child_Zip_8]"
+            },
+            {
+                "Month of Birth": "[MM_Child_8]"
+            },
+            {
+                "Day of Birth": "[DD_Child_8]"
+            },
+            {
+                "Year of Birth": "[YY_Child_8]"
+            }
+        ],
+        "Child 9": [
+            {
+                "Name": "[Child_9]"
+            },
+            {
+                "Street": "[Child_Street_9]"
+            },
+            {
+                "City": "[Child_City_9]"
+            },
+            {
+                "State": "[Child_State_9]"
+            },
+            {
+                "Zip": "[Child_Zip_9]"
+            },
+            {
+                "Month of Birth": "[MM_Child_9]"
+            },
+            {
+                "Day of Birth": "[DD_Child_9]"
+            },
+            {
+                "Year of Birth": "[YY_Child_9]"
+            },
+            {
+                "Did you give birth to your first child after age 30": "[Give]"
+            }
+        ],
+        "C. Menstrual History": [
+            {
+                "Age at time of first period (menses)": "[Age_First]"
+            },
+            {
+                "Age at time of last period (menses)": "[Age_Last]"
+            },
+            {
+                "Are/were your menstrual cycles regular": "[Cycle]"
+            },
+            {
+                "If yes, or unsure, average length of cycle": "[Cycle_Average]"
+            },
+            {
+                "If yes, or unsure, average length of period": "[Period_Average]"
+            }
+        ],
+        "III.": [
+            {
+                "Did you ever experience any abnormal menstruation (including irregular period, painful periods, or absence of periods": "[Abnormal]"
+            },
+            {
+                "If your answer is \u00f4Yes,\u00f6 or \u00f4Unsure,\u00f6 give the approximate dates and a description of each problem": "[Problem]"
+            },
+            {
+                "If your answer is to Question 3. is \u00f4Yes,\u00f6 did you seek medical treatment or advice for any condition described in your answer to Question 3. above": "[Advice]"
+            },
+            {
+                "If your answer is yes, or, if you are unsure, state the name and address of the HEALTHCARE PROVIDER consulted, and the types of any such treatment(s) given by that provider.\n\nDo not fill out this section.": NaN
+            }
+        ],
+        "Healthcare Provider 1": [
+            {
+                "Name": "[Med_1]"
+            },
+            {
+                "Street": "[Med_Street_1]"
+            },
+            {
+                "City": "[Med_City_1]"
+            },
+            {
+                "State": "[Med_State_1]"
+            },
+            {
+                "Zip": "[Med_Zip_1]"
+            },
+            {
+                "Treatment(s)": "[Med_Treat_1]"
+            },
+            {
+                "Month Treatment(s) Start": "[MM_MedS_1]"
+            },
+            {
+                "Day Treatment(s) Start": "[DD_MedS_1]"
+            },
+            {
+                "Year Treatment(s) Start": "[YY_MedS_1]"
+            },
+            {
+                "Month Treatment(s) End": "[MM_MedE_1]"
+            },
+            {
+                "Day Treatment(s) End": "[DD_MedE_1]"
+            },
+            {
+                "Year Treatment(s) End": "[YY_MedE_1]"
+            }
+        ],
+        "Healthcare Provider 2": [
+            {
+                "Name": "[Med_2]"
+            },
+            {
+                "Street": "[Med_Street_2]"
+            },
+            {
+                "City": "[Med_City_2]"
+            },
+            {
+                "State": "[Med_State_2]"
+            },
+            {
+                "Zip": "[Med_Zip_2]"
+            },
+            {
+                "Treatment(s)": "[Med_Treat_2]"
+            },
+            {
+                "Month Treatment(s) Start": "[MM_MedS_2]"
+            },
+            {
+                "Day Treatment(s) Start": "[DD_MedS_2]"
+            },
+            {
+                "Year Treatment(s) Start": "[YY_MedS_2]"
+            },
+            {
+                "Month Treatment(s) End": "[MM_MedE_2]"
+            },
+            {
+                "Day Treatment(s) End": "[DD_MedE_2]"
+            },
+            {
+                "Year Treatment(s) End": "[YY_MedE_2]"
+            }
+        ],
+        "Healthcare Provider 3": [
+            {
+                "Name": "[Med_3]"
+            },
+            {
+                "Street": "[Med_Street_3]"
+            },
+            {
+                "City": "[Med_City_3]"
+            },
+            {
+                "State": "[Med_State_3]"
+            },
+            {
+                "Zip": "[Med_Zip_3]"
+            },
+            {
+                "Treatment(s)": "[Med_Treat_3]"
+            },
+            {
+                "Month Treatment(s) Start": "[MM_MedS_3]"
+            },
+            {
+                "Day Treatment(s) Start": "[DD_MedS_3]"
+            },
+            {
+                "Year Treatment(s) Start": "[YY_MedS_3]"
+            },
+            {
+                "Month Treatment(s) End": "[MM_MedE_3]"
+            },
+            {
+                "Day Treatment(s) End": "[DD_MedE_3]"
+            },
+            {
+                "Year Treatment(s) End": "[YY_MedE_3]"
+            },
+            {
+                "Name": "[Med_4]"
+            },
+            {
+                "Street": "[Med_Street_4]"
+            },
+            {
+                "City": "[Med_City_4]"
+            },
+            {
+                "State": "[Med_State_4]"
+            },
+            {
+                "Zip": "[Med_Zip_4]"
+            },
+            {
+                "Treatment(s)": "[Med_Treat_4]"
+            },
+            {
+                "Month Treatment(s) Start": "[MM_MedS_4]"
+            },
+            {
+                "Day Treatment(s) Start": "[DD_MedS_4]"
+            },
+            {
+                "Year Treatment(s) Start": "[YY_MedS_4]"
+            },
+            {
+                "Month Treatment(s) End": "[MM_MedE_4]"
+            },
+            {
+                "Day Treatment(s) End": "[DD_MedE_4]"
+            },
+            {
+                "Year Treatment(s) End": "[YY_MedE_4]"
+            }
+        ],
+        "D. Menopausal History": [
+            {
+                "Are you menopausal, perimenopausal or postmenopausal": "[Menopause]"
+            },
+            {
+                "If yes, age at menopause:": "[Age_Menopause]"
+            }
+        ],
+        "E. Medical History": [
+            {
+                "For EACH year, beginning ten (10) years prior to your alleged injury diagnosis to the present, who was your gynecological provider.\n\nDo not fill out this section.": NaN
+            }
+        ],
+        "Gynecological Provider 1": [
+            {
+                "Doctor": "[Doc_1]"
+            },
+            {
+                "Office": "[Doc_Office_1]"
+            },
+            {
+                "Year": "[Doc_Year_1]"
+            }
+        ],
+        "Gynecological Provider 2": [
+            {
+                "Doctor": "[Doc_2]"
+            },
+            {
+                "Office": "[Doc_Office_2]"
+            },
+            {
+                "Year": "[Doc_Year_2]"
+            }
+        ],
+        "Gynecological Provider 3": [
+            {
+                "Doctor": "[Doc_3]"
+            },
+            {
+                "Office": "[Doc_Office_3]"
+            },
+            {
+                "Year": "[Doc_Year_3]"
+            }
+        ],
+        "Gynecological Provider 4": [
+            {
+                "Doctor": "[Doc_4]"
+            },
+            {
+                "Office": "[Doc_Office_4]"
+            },
+            {
+                "Year": "[Doc_Year_4]"
+            }
+        ],
+        "Gynecological Provider 5": [
+            {
+                "Doctor": "[Doc_5]"
+            },
+            {
+                "Office": "[Doc_Office_5]"
+            },
+            {
+                "Year": "[Doc_Year_5]"
+            }
+        ],
+        "Gynecological Provider 6": [
+            {
+                "Doctor": "[Doc_6]"
+            },
+            {
+                "Office": "[Doc_Office_6]"
+            },
+            {
+                "Year": "[Doc_Year_6]"
+            }
+        ],
+        "Gynecological Provider 7": [
+            {
+                "Doctor": "[Doc_7]"
+            },
+            {
+                "Office": "[Doc_Office_7]"
+            },
+            {
+                "Year": "[Doc_Year_7]"
+            }
+        ],
+        "Gynecological Provider 8": [
+            {
+                "Doctor": "[Doc_8]"
+            },
+            {
+                "Office": "[Doc_Office_8]"
+            },
+            {
+                "Year": "[Doc_Year_8]"
+            }
+        ],
+        "Gynecological Provider 9": [
+            {
+                "Doctor": "[Doc_9]"
+            },
+            {
+                "Office": "[Doc_Office_9]"
+            },
+            {
+                "Year": "[Doc_Year_9]"
+            }
+        ],
+        "Gynecological Provider 10": [
+            {
+                "Doctor": "[Doc_10]"
+            },
+            {
+                "Office": "[Doc_Office_10]"
+            },
+            {
+                "Year": "[Doc_Year_10]"
+            }
+        ],
+        "Gynecological Provider 11": [
+            {
+                "Doctor": "[Doc_11]"
+            },
+            {
+                "Office": "[Doc_Office_11]"
+            },
+            {
+                "Year": "[Doc_Year_11]"
+            }
+        ],
+        "Gynecological Provider 12": [
+            {
+                "Doctor": "[Doc_12]"
+            },
+            {
+                "Office": "[Doc_Office_12]"
+            },
+            {
+                "Year": "[Doc_Year_12]"
+            }
+        ],
+        "Gynecological Provider 13": [
+            {
+                "Doctor": "[Doc_13]"
+            },
+            {
+                "Office": "[Doc_Office_13]"
+            },
+            {
+                "Year": "[Doc_Year_13]"
+            }
+        ],
+        "Gynecological Provider 14": [
+            {
+                "Doctor": "[Doc_14]"
+            },
+            {
+                "Office": "[Doc_Office_14]"
+            },
+            {
+                "Year": "[Doc_Year_14]"
+            }
+        ],
+        "Gynecological Provider 15": [
+            {
+                "Doctor": "[Doc_15]"
+            },
+            {
+                "Office": "[Doc_Office_15]"
+            },
+            {
+                "Year": "[Doc_Year_15]"
+            }
+        ],
+        "Gynecological Provider 16": [
+            {
+                "Doctor": "[Doc_16]"
+            },
+            {
+                "Office": "[Doc_Office_16]"
+            },
+            {
+                "Year": "[Doc_Year_16]"
+            },
+            {
+                "For EACH year beginning ten (10) years prior to your alleged injury diagnosis to the present, if you are alleging an injury to your breast such as breast cancer, who did you see for any mammogram\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Mammogram 1": [
+            {
+                "Office": "[Injury_Office_1]"
+            },
+            {
+                "Year": "[Injury_Year_1]"
+            }
+        ],
+        "Mammogram 2": [
+            {
+                "Office": "[Injury_Office_2]"
+            },
+            {
+                "Year": "[Injury_Year_2]"
+            }
+        ],
+        "Mammogram 3": [
+            {
+                "Office": "[Injury_Office_3]"
+            },
+            {
+                "Year": "[Injury_Year_3]"
+            }
+        ],
+        "Mammogram 4": [
+            {
+                "Office": "[Injury_Office_4]"
+            },
+            {
+                "Year": "[Injury_Year_4]"
+            }
+        ],
+        "Mammogram 5": [
+            {
+                "Office": "[Injury_Office_5]"
+            },
+            {
+                "Year": "[Injury_Year_5]"
+            }
+        ],
+        "Mammogram 6": [
+            {
+                "Office": "[Injury_Office_6]"
+            },
+            {
+                "Year": "[Injury_Year_6]"
+            }
+        ],
+        "Mammogram 7": [
+            {
+                "Office": "[Injury_Office_7]"
+            },
+            {
+                "Year": "[Injury_Year_7]"
+            }
+        ],
+        "Mammogram 8": [
+            {
+                "Office": "[Injury_Office_8]"
+            },
+            {
+                "Year": "[Injury_Year_8]"
+            }
+        ],
+        "Mammogram 9": [
+            {
+                "Office": "[Injury_Office_9]"
+            },
+            {
+                "Year": "[Injury_Year_9]"
+            }
+        ],
+        "Mammogram 10": [
+            {
+                "Office": "[Injury_Office_10]"
+            },
+            {
+                "Year": "[Injury_Year_10]"
+            }
+        ],
+        "Mammogram 11": [
+            {
+                "Office": "[Injury_Office_11]"
+            },
+            {
+                "Year": "[Injury_Year_11]"
+            }
+        ],
+        "Mammogram 12": [
+            {
+                "Office": "[Injury_Office_12]"
+            },
+            {
+                "Year": "[Injury_Year_12]"
+            }
+        ],
+        "Mammogram 13": [
+            {
+                "Office": "[Injury_Office_13]"
+            },
+            {
+                "Year": "[Injury_Year_13]"
+            }
+        ],
+        "Mammogram 14": [
+            {
+                "Office": "[Injury_Office_14]"
+            },
+            {
+                "Year": "[Injury_Year_14]"
+            },
+            {
+                "If you know, have you ever been diagnosed with or experienced any of the following Conditions\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Adenomyosis": [
+            {
+                "Yes/No": "[Issue_1]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_1]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_1]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_1]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_1]"
+            }
+        ],
+        "Breast cancer": [
+            {
+                "Yes/No": "[Issue_2]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_2]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_2]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_2]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_2]"
+            }
+        ],
+        "Breast Lesions": [
+            {
+                "Yes/No": "[Issue_3]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_3]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_3]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_3]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_3]"
+            }
+        ],
+        "Congenital retinoblastoma": [
+            {
+                "Yes/No": "[Issue_4]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_4]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_4]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_4]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_4]"
+            }
+        ],
+        "Dense breast tissue": [
+            {
+                "Yes/No": "[Issue_5]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_5]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_5]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_5]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_5]"
+            }
+        ],
+        "Disorders of the reproductive tract": [
+            {
+                "Yes/No": "[Issue_6]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_6]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_6]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_6]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_6]"
+            }
+        ],
+        "Endometrial hyperplasia": [
+            {
+                "Yes/No": "[Issue_7]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_7]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_7]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_7]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_7]"
+            }
+        ],
+        "Endometriosis": [
+            {
+                "Yes/No": "[Issue_8]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_8]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_8]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_8]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_8]"
+            }
+        ],
+        "Gestational diabetes": [
+            {
+                "Yes/No": "[Issue_9]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_9]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_9]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_9]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_9]"
+            }
+        ],
+        "High blood pressure": [
+            {
+                "Yes/No": "[Issue_10]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_10]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_10]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_10]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_10]"
+            }
+        ],
+        "High cholesterol": [
+            {
+                "Yes/No": "[Issue_11]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_11]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_11]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_11]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_11]"
+            }
+        ],
+        "High estrogen levels": [
+            {
+                "Yes/No": "[Issue_12]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_12]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_12]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_12]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_12]"
+            }
+        ],
+        "Infertility": [
+            {
+                "Yes/No": "[Issue_13]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_13]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_13]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_13]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_13]"
+            }
+        ],
+        "Inflammatory Pelvic Disease ": [
+            {
+                "Yes/No": "[Issue_14]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_14]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_14]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_14]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_14]"
+            }
+        ],
+        "Irregular vaginal  bleeding": [
+            {
+                "Yes/No": "[Issue_15]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_15]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_15]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_15]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_15]"
+            }
+        ],
+        "Lobular carcinoma in situ (LCIS) of the breast": [
+            {
+                "Yes/No": "[Issue_16]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_16]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_16]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_16]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_16]"
+            }
+        ],
+        "Loeys-Dietz syndrome": [
+            {
+                "Yes/No": "[Issue_17]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_17]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_17]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_17]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_17]"
+            }
+        ],
+        "Lynch syndrome": [
+            {
+                "Yes/No": "[Issue_18]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_18]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_18]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_18]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_18]"
+            }
+        ],
+        "MUTYH-associated polyposis": [
+            {
+                "Yes/No": "[Issue_19]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_19]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_19]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_19]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_19]"
+            }
+        ],
+        "Obesity/overweight": [
+            {
+                "Yes/No": "[Issue_20]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_20]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_20]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_20]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_20]"
+            }
+        ],
+        "Osteopenia or osteoporosis": [
+            {
+                "Yes/No": "[Issue_21]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_21]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_21]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_21]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_21]"
+            }
+        ],
+        "Other cancer (please specify)": [
+            {
+                "Specify Other Cancer": "[Other_Cancer]"
+            },
+            {
+                "Yes/No": "[Issue_22]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_22]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_22]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_22]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_22]"
+            }
+        ],
+        "Ovarian cancer or tumors": [
+            {
+                "Yes/No": "[Issue_23]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_23]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_23]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_23]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_23]"
+            }
+        ],
+        "Ovarian cysts": [
+            {
+                "Yes/No": "[Issue_24]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_24]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_24]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_24]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_24]"
+            }
+        ],
+        "Polycystic ovaries and/or Polycystic Ovarian Syndrome (PCOS)": [
+            {
+                "Yes/No": "[Issue_25]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_25]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_25]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_25]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_25]"
+            }
+        ],
+        "Rectal bleeding": [
+            {
+                "Yes/No": "[Issue_26]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_26]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_26]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_26]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_26]"
+            }
+        ],
+        "Type I diabetes mellitus": [
+            {
+                "Yes/No": "[Issue_27]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_27]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_27]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_27]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_27]"
+            }
+        ],
+        "Type II diabetes mellitus": [
+            {
+                "Yes/No": "[Issue_28]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_28]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_28]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_28]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_28]"
+            }
+        ],
+        "Uterine fibroids": [
+            {
+                "Yes/No": "[Issue_29]"
+            },
+            {
+                "Month of Diagnosis": "[MM_Issue_29]"
+            },
+            {
+                "Day of Diagnosis": "[DD_Issue_29]"
+            },
+            {
+                "Year of Diagnosis": "[YY_Issue_29]"
+            },
+            {
+                "Diagnosing Healthcare Provider including Location \u00fb State and City [if known] ": "[Issue_Doc_29]"
+            },
+            {
+                "Has any HEALTHCARE PROVIDER told you or your representative that you are at an increased risk for developing any type of cancer": "[Type]"
+            },
+            {
+                "If yes, or unsure, state:\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Healthcare Provider Increased Risk of Cancer 1": [
+            {
+                "Name": "[Health_Name_1]"
+            },
+            {
+                "Street": "[Health_Street_1]"
+            },
+            {
+                "City": "[Health_City_1]"
+            },
+            {
+                "State": "[Health_State_1]"
+            },
+            {
+                "Zip": "[Health_Zip_1]"
+            },
+            {
+                "Phone": "[Health_Phone_1]"
+            },
+            {
+                "Date Statement was Made Month": "[MM_Made_1]"
+            },
+            {
+                "Date Statement was Made Day": "[DD_Made_1]"
+            },
+            {
+                "Date Statement was Made Year": "[YY_Made_1]"
+            },
+            {
+                "Reason Given, if any, for Your Increased Risk of Cancer": "[Risk_1]"
+            },
+            {
+                "Type of Cancer, if any, for Which You were Told are at Increased Risk": "[Told_1]"
+            }
+        ],
+        "Healthcare Provider Increased Risk of Cancer 2": [
+            {
+                "Name": "[Health_Name_2]"
+            },
+            {
+                "Street": "[Health_Street_2]"
+            },
+            {
+                "City": "[Health_City_2]"
+            },
+            {
+                "State": "[Health_State_2]"
+            },
+            {
+                "Zip": "[Health_Zip_2]"
+            },
+            {
+                "Phone": "[Health_Phone_2]"
+            },
+            {
+                "Date Statement was Made Month": "[MM_Made_2]"
+            },
+            {
+                "Date Statement was Made Day": "[DD_Made_2]"
+            },
+            {
+                "Date Statement was Made Year": "[YY_Made_2]"
+            },
+            {
+                "Reason Given, if any, for Your Increased Risk of Cancer": "[Risk_2]"
+            },
+            {
+                "Type of Cancer, if any, for Which You were Told are at Increased Risk": "[Told_2]"
+            }
+        ],
+        "Healthcare Provider Increased Risk of Cancer 3": [
+            {
+                "Name": "[Health_Name_3]"
+            },
+            {
+                "Street": "[Health_Street_3]"
+            },
+            {
+                "City": "[Health_City_3]"
+            },
+            {
+                "State": "[Health_State_3]"
+            },
+            {
+                "Zip": "[Health_Zip_3]"
+            },
+            {
+                "Phone": "[Health_Phone_3]"
+            },
+            {
+                "Date Statement was Made Month": "[MM_Made_3]"
+            },
+            {
+                "Date Statement was Made Day": "[DD_Made_3]"
+            },
+            {
+                "Date Statement was Made Year": "[YY_Made_3]"
+            },
+            {
+                "Reason Given, if any, for Your Increased Risk of Cancer": "[Risk_3]"
+            },
+            {
+                "Type of Cancer, if any, for Which You were Told are at Increased Risk": "[Told_3]"
+            }
+        ],
+        "Healthcare Provider Increased Risk of Cancer 4": [
+            {
+                "Name": "[Health_Name_4]"
+            },
+            {
+                "Street": "[Health_Street_4]"
+            },
+            {
+                "City": "[Health_City_4]"
+            },
+            {
+                "State": "[Health_State_4]"
+            },
+            {
+                "Zip": "[Health_Zip_4]"
+            },
+            {
+                "Phone": "[Health_Phone_4]"
+            },
+            {
+                "Date Statement was Made Month": "[MM_Made_4]"
+            },
+            {
+                "Date Statement was Made Day": "[DD_Made_4]"
+            },
+            {
+                "Date Statement was Made Year": "[YY_Made_4]"
+            },
+            {
+                "Reason Given, if any, for Your Increased Risk of Cancer": "[Risk_4]"
+            },
+            {
+                "Type of Cancer, if any, for Which You were Told are at Increased Risk": "[Told_4]"
+            }
+        ],
+        "Healthcare Provider Increased Risk of Cancer 5": [
+            {
+                "Name": "[Health_Name_5]"
+            },
+            {
+                "Street": "[Health_Street_5]"
+            },
+            {
+                "City": "[Health_City_5]"
+            },
+            {
+                "State": "[Health_State_5]"
+            },
+            {
+                "Zip": "[Health_Zip_5]"
+            },
+            {
+                "Phone": "[Health_Phone_5]"
+            },
+            {
+                "Date Statement was Made Month": "[MM_Made_5]"
+            },
+            {
+                "Date Statement was Made Day": "[DD_Made_5]"
+            },
+            {
+                "Date Statement was Made Year": "[YY_Made_5]"
+            },
+            {
+                "Reason Given, if any, for Your Increased Risk of Cancer": "[Risk_5]"
+            },
+            {
+                "Type of Cancer, if any, for Which You were Told are at Increased Risk": "[Told_5]"
+            }
+        ],
+        "F. Other Risk Factors": [
+            {
+                "If you are claiming as an alleged injury from your use of HAIR RELAXER PRODUCTS uterine or ovarian cancer, please state whether any of your biological family members (including your parents, siblings, children, grandchildren, grandparents": "[Diagnosed]"
+            },
+            {
+                "If yes, for each family member state\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Relative with Cancer 1": [
+            {
+                "Relative's Name": "[Relative_1]"
+            },
+            {
+                "Relation to You": "[Relation_1]"
+            },
+            {
+                "Relative's City": "[Relative_City_1]"
+            },
+            {
+                "Relative's State": "[Relative_State_1]"
+            },
+            {
+                "Type(s) of Cancer/Medical Condition": "[Cond_1]"
+            },
+            {
+                "Relative Living or Deceased": "[Deceased_1]"
+            }
+        ],
+        "Relative with Cancer 2": [
+            {
+                "Relative's Name": "[Relative_2]"
+            },
+            {
+                "Relation to You": "[Relation_2]"
+            },
+            {
+                "Relative's City": "[Relative_City_2]"
+            },
+            {
+                "Relative's State": "[Relative_State_2]"
+            },
+            {
+                "Type(s) of Cancer/Medical Condition": "[Cond_2]"
+            },
+            {
+                "Relative Living or Deceased": "[Deceased_2]"
+            }
+        ],
+        "Relative with Cancer 3": [
+            {
+                "Relative's Name": "[Relative_3]"
+            },
+            {
+                "Relation to You": "[Relation_3]"
+            },
+            {
+                "Relative's City": "[Relative_City_3]"
+            },
+            {
+                "Relative's State": "[Relative_State_3]"
+            },
+            {
+                "Type(s) of Cancer/Medical Condition": "[Cond_3]"
+            },
+            {
+                "Relative Living or Deceased": "[Deceased_3]"
+            }
+        ],
+        "G. Hormone Replacement Therapy": [
+            {
+                "Have you ever undergone hormone replacement therapy": "[Hormone]"
+            },
+            {
+                "If yes, for each therapy state\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Hormone Replacement Therapy 1": [
+            {
+                "Therapy": "[Therapy_1]"
+            },
+            {
+                "Date(s) of Therapy": "[Dates_1]"
+            },
+            {
+                "Persciber Name": "[Prescribe_Name_1]"
+            },
+            {
+                "Persciber Street": "[Prescribe_Street_1]"
+            },
+            {
+                "Persciber City": "[Prescribe_City_1]"
+            },
+            {
+                "Persciber State": "[Prescribe_State_1]"
+            },
+            {
+                "Persciber Zip": "[Prescribe_Zip_1]"
+            },
+            {
+                "Persciber Phone": "[Prescribe_Phone_1]"
+            },
+            {
+                "Administering HCP Name": "[Administer_Name_1]"
+            },
+            {
+                "Administering HCP Street": "[Administer_Street_1]"
+            },
+            {
+                "Administering HCP City": "[Administer_City_1]"
+            },
+            {
+                "Administering HCP State": "[Administer_State_1]"
+            },
+            {
+                "Administering HCP Zip": "[Administer_Zip_1]"
+            },
+            {
+                "Administering HCP Phone": "[Administer_Phone_1]"
+            },
+            {
+                "Side-Effects You Experienced": "[Effects_1]"
+            }
+        ],
+        "Hormone Replacement Therapy 2": [
+            {
+                "Therapy": "[Therapy_2]"
+            },
+            {
+                "Date(s) of Therapy": "[Dates_2]"
+            },
+            {
+                "Persciber Name": "[Prescribe_Name_2]"
+            },
+            {
+                "Persciber Street": "[Prescribe_Street_2]"
+            },
+            {
+                "Persciber City": "[Prescribe_City_2]"
+            },
+            {
+                "Persciber State": "[Prescribe_State_2]"
+            },
+            {
+                "Persciber Zip": "[Prescribe_Zip_2]"
+            },
+            {
+                "Persciber Phone": "[Prescribe_Phone_2]"
+            },
+            {
+                "Administering HCP Name": "[Administer_Name_2]"
+            },
+            {
+                "Administering HCP Street": "[Administer_Street_2]"
+            },
+            {
+                "Administering HCP City": "[Administer_City_2]"
+            },
+            {
+                "Administering HCP State": "[Administer_State_2]"
+            },
+            {
+                "Administering HCP Zip": "[Administer_Zip_2]"
+            },
+            {
+                "Administering HCP Phone": "[Administer_Phone_2]"
+            },
+            {
+                "Side-Effects You Experienced": "[Effects_2]"
+            }
+        ],
+        "H. Fertility Treatment": [
+            {
+                "Have you ever undergone fertility treatment": "[Fertility]"
+            },
+            {
+                "If yes, for each treatment state\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Fertility Treatment 1": [
+            {
+                "Therapy": "[Treatment_1]"
+            },
+            {
+                "Date(s) of Therapy": "[Date_1]"
+            },
+            {
+                "Prescriber Name": "[Scribe_Name_1]"
+            },
+            {
+                "Prescriber Street": "[Scribe_Street_1]"
+            },
+            {
+                "Prescriber City": "[Scribe_City_1]"
+            },
+            {
+                "Prescriber State": "[Scribe_State_1]"
+            },
+            {
+                "Prescriber Zip": "[Scribe_Zip_1]"
+            },
+            {
+                "Prescriber Phone": "[Scribe_Phone_1]"
+            },
+            {
+                "Administering HCP Name": "[Care_Name_1]"
+            },
+            {
+                "Administering HCP Street": "[Care_Street_1]"
+            },
+            {
+                "Administering HCP City": "[Care_City_1]"
+            },
+            {
+                "Administering HCP State": "[Care_State_1]"
+            },
+            {
+                "Administering HCP Zip": "[Care_Zip_1]"
+            },
+            {
+                "Administering HCP Phone": "[Care_Phone_1]"
+            },
+            {
+                "Side-Effects You Experienced": "[Side_1]"
+            }
+        ],
+        "Fertility Treatment 2": [
+            {
+                "Therapy": "[Treatment_2]"
+            },
+            {
+                "Date(s) of Therapy": "[Date_2]"
+            },
+            {
+                "Prescriber Name": "[Scribe_Name_2]"
+            },
+            {
+                "Prescriber Street": "[Scribe_Street_2]"
+            },
+            {
+                "Prescriber City": "[Scribe_City_2]"
+            },
+            {
+                "Prescriber State": "[Scribe_State_2]"
+            },
+            {
+                "Prescriber Zip": "[Scribe_Zip_2]"
+            },
+            {
+                "Prescriber Phone": "[Scribe_Phone_2]"
+            },
+            {
+                "Administering HCP Name": "[Care_Name_2]"
+            },
+            {
+                "Administering HCP Street": "[Care_Street_2]"
+            },
+            {
+                "Administering HCP City": "[Care_City_2]"
+            },
+            {
+                "Administering HCP State": "[Care_State_2]"
+            },
+            {
+                "Administering HCP Zip": "[Care_Zip_2]"
+            },
+            {
+                "Administering HCP Phone": "[Care_Phone_2]"
+            },
+            {
+                "Side-Effects You Experienced": "[Side_2]"
+            }
+        ],
+        "I. Genetic Testing": [
+            {
+                "Have you been genetically tested for any of the for any of the following genetic mutations:\nBRCA1 and BRCA2": "[Mutate]"
+            },
+            {
+                "If yes, state\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Gene Testing Laboratory 1": [
+            {
+                "Name of Testing Laboratory(ies)": "[Laboratory_1]"
+            },
+            {
+                "Date(s) of Testing": "[DOT_1]"
+            },
+            {
+                "Genes Tested": "[Genes_1]"
+            }
+        ],
+        "Gene Testing Laboratory 2": [
+            {
+                "Name of Testing Laboratory(ies)": "[Laboratory_2]"
+            },
+            {
+                "Date(s) of Testing": "[DOT_2]"
+            },
+            {
+                "Genes Tested": "[Genes_2]"
+            },
+            {
+                "Has any HEALTHCARE PROVIDER recommended that you undergo genetic testing and/or genetic counseling": "[Counseling]"
+            },
+            {
+                "If yes, identify the HEALTHCARE PROVIDER that recommended you undergo genetic testing and/or genetic counseling, their specialty, current address, and the date he/she made the recommendation to you\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Provider Recommending Genetic Testing 1": [
+            {
+                "Healthcare Provider": "[Provide_1]"
+            },
+            {
+                "Specialty": "[Speciality_1]"
+            },
+            {
+                "Current Address": "[Current_1]"
+            },
+            {
+                "Date they Made the Recommendation": "[Made_1]"
+            }
+        ],
+        "Provider Recommending Genetic Testing 2": [
+            {
+                "Healthcare Provider": "[Provide_2]"
+            },
+            {
+                "Specialty": "[Speciality_2]"
+            },
+            {
+                "Current Address": "[Current_2]"
+            },
+            {
+                "Date they Made the Recommendation": "[Made_2]"
+            }
+        ],
+        "Provider Recommending Genetic Testing 3": [
+            {
+                "Healthcare Provider": "[Provide_3]"
+            },
+            {
+                "Specialty": "[Speciality_3]"
+            },
+            {
+                "Current Address": "[Current_3]"
+            },
+            {
+                "Date they Made the Recommendation": "[Made_3]"
+            }
+        ],
+        "J. Toxicology": [
+            {
+                "Have you ever taken tamoxifen": "[Tamoxifen]"
+            }
+        ],
+        "Tamoxifen Presciber 1": [
+            {
+                "When Taken": "[Taken_1]"
+            },
+            {
+                "Prescriber Name": "[Prescriber_1]"
+            },
+            {
+                "Prescriber Address": "[Address_1]"
+            },
+            {
+                "Prescriber Phone Number": "[Number_1]"
+            }
+        ],
+        "Tamoxifen Presciber 2": [
+            {
+                "When Taken": "[Taken_2]"
+            },
+            {
+                "Prescriber Name": "[Prescriber_2]"
+            },
+            {
+                "Prescriber Address": "[Address_2]"
+            },
+            {
+                "Prescriber Phone Number": "[Number_2]"
+            }
+        ],
+        "K. Prescription Medications": [
+            {
+                "Are there prescription medications that you took more than three (3) times at any time beginning one (1) year prior to your alleged injury diagnosis to the present": "[Injury]"
+            },
+            {
+                "If yes, please provide the following for EACH prescription medication\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Prescription Medication 1": [
+            {
+                "Medication": "[Medication_1]"
+            },
+            {
+                "Prescriber": "[Scribe_1]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_1]"
+            },
+            {
+                "Dates Taken": "[Take_1]"
+            }
+        ],
+        "Prescription Medication 2": [
+            {
+                "Medication": "[Medication_2]"
+            },
+            {
+                "Prescriber": "[Scribe_2]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_2]"
+            },
+            {
+                "Dates Taken": "[Take_2]"
+            }
+        ],
+        "Prescription Medication 3": [
+            {
+                "Medication": "[Medication_3]"
+            },
+            {
+                "Prescriber": "[Scribe_3]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_3]"
+            },
+            {
+                "Dates Taken": "[Take_3]"
+            }
+        ],
+        "Prescription Medication 4": [
+            {
+                "Medication": "[Medication_4]"
+            },
+            {
+                "Prescriber": "[Scribe_4]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_4]"
+            },
+            {
+                "Dates Taken": "[Take_4]"
+            }
+        ],
+        "Prescription Medication 5": [
+            {
+                "Medication": "[Medication_5]"
+            },
+            {
+                "Prescriber": "[Scribe_5]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_5]"
+            },
+            {
+                "Dates Taken": "[Take_5]"
+            }
+        ],
+        "Prescription Medication 6": [
+            {
+                "Medication": "[Medication_6]"
+            },
+            {
+                "Prescriber": "[Scribe_6]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_6]"
+            },
+            {
+                "Dates Taken": "[Take_6]"
+            }
+        ],
+        "Prescription Medication 7": [
+            {
+                "Medication": "[Medication_7]"
+            },
+            {
+                "Prescriber": "[Scribe_7]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_7]"
+            },
+            {
+                "Dates Taken": "[Take_7]"
+            }
+        ],
+        "Prescription Medication 8": [
+            {
+                "Medication": "[Medication_8]"
+            },
+            {
+                "Prescriber": "[Scribe_8]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_8]"
+            },
+            {
+                "Dates Taken": "[Take_8]"
+            }
+        ],
+        "Prescription Medication 9": [
+            {
+                "Medication": "[Medication_9]"
+            },
+            {
+                "Prescriber": "[Scribe_9]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_9]"
+            },
+            {
+                "Dates Taken": "[Take_9]"
+            }
+        ],
+        "Prescription Medication 10": [
+            {
+                "Medication": "[Medication_10]"
+            },
+            {
+                "Prescriber": "[Scribe_10]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_10]"
+            },
+            {
+                "Dates Taken": "[Take_10]"
+            }
+        ],
+        "Prescription Medication 11": [
+            {
+                "Medication": "[Medication_11]"
+            },
+            {
+                "Prescriber": "[Scribe_11]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_11]"
+            },
+            {
+                "Dates Taken": "[Take_11]"
+            }
+        ],
+        "Prescription Medication 12": [
+            {
+                "Medication": "[Medication_12]"
+            },
+            {
+                "Prescriber": "[Scribe_12]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_12]"
+            },
+            {
+                "Dates Taken": "[Take_12]"
+            }
+        ],
+        "Prescription Medication 13": [
+            {
+                "Medication": "[Medication_13]"
+            },
+            {
+                "Prescriber": "[Scribe_13]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_13]"
+            },
+            {
+                "Dates Taken": "[Take_13]"
+            }
+        ],
+        "Prescription Medication 14": [
+            {
+                "Medication": "[Medication_14]"
+            },
+            {
+                "Prescriber": "[Scribe_14]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_14]"
+            },
+            {
+                "Dates Taken": "[Take_14]"
+            }
+        ],
+        "Prescription Medication 15": [
+            {
+                "Medication": "[Medication_15]"
+            },
+            {
+                "Prescriber": "[Scribe_15]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_15]"
+            },
+            {
+                "Dates Taken": "[Take_15]"
+            }
+        ],
+        "Prescription Medication 16": [
+            {
+                "Medication": "[Medication_16]"
+            },
+            {
+                "Prescriber": "[Scribe_16]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_16]"
+            },
+            {
+                "Dates Taken": "[Take_16]"
+            }
+        ],
+        "Prescription Medication 17": [
+            {
+                "Medication": "[Medication_17]"
+            },
+            {
+                "Prescriber": "[Scribe_17]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_17]"
+            },
+            {
+                "Dates Taken": "[Take_17]"
+            }
+        ],
+        "Prescription Medication 18": [
+            {
+                "Medication": "[Medication_18]"
+            },
+            {
+                "Prescriber": "[Scribe_18]"
+            },
+            {
+                "Pharmacy": "[Pharmacy_18]"
+            },
+            {
+                "Dates Taken": "[Take_18]"
+            }
+        ],
+        "L. Clinical Trials": [
+            {
+                "Have you ever participated in any clinical trials or taken any experimental medications": "[Clinical]"
+            },
+            {
+                "If yes, or unsure, please provide the name of medication or medical device, for what condition you took such medication or used such device, the dates of the clinical trial, who conducted the clinical trial and where the trial took place\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Experimental Medication or Medical Device 1": [
+            {
+                "Name of Medication or Medical Device": "[Device_1]"
+            },
+            {
+                "Condition Taken For": "[For_1]"
+            },
+            {
+                "Dates of Clinical Trial": "[Trial_1]"
+            },
+            {
+                "Who Conducted the Clinical Trial": "[Who_1]"
+            },
+            {
+                "Where the Trial Took Place": "[Took_1]"
+            }
+        ],
+        "Experimental Medication or Medical Device 2": [
+            {
+                "Name of Medication or Medical Device": "[Device_2]"
+            },
+            {
+                "Condition Taken For": "[For_2]"
+            },
+            {
+                "Dates of Clinical Trial": "[Trial_2]"
+            },
+            {
+                "Who Conducted the Clinical Trial": "[Who_2]"
+            },
+            {
+                "Where the Trial Took Place": "[Took_2]"
+            }
+        ],
+        "Experimental Medication or Medical Device 3": [
+            {
+                "Name of Medication or Medical Device": "[Device_3]"
+            },
+            {
+                "Condition Taken For": "[For_3]"
+            },
+            {
+                "Dates of Clinical Trial": "[Trial_3]"
+            },
+            {
+                "Who Conducted the Clinical Trial": "[Who_3]"
+            },
+            {
+                "Where the Trial Took Place": "[Took_3]"
+            }
+        ],
+        "M. Other Products": [
+            {
+                "For each of the below products, if you have used them more than four (4) times a year at any time since the year before your alleged injury, please state that below and provide the brand, dates of use, and frequency of use for each product\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Anti-frizz/polish/ Brazilian Blowout/Keratin": [
+            {
+                "Yes/No": "[Used_1]"
+            },
+            {
+                "Brand": "[Brand_1]"
+            },
+            {
+                "Date(s) of Use": "[Of_1]"
+            },
+            {
+                "Frequency of Use": "[Freq_1]"
+            }
+        ],
+        "Hair Dye": [
+            {
+                "Yes/No": "[Used_2]"
+            },
+            {
+                "Brand": "[Brand_2]"
+            },
+            {
+                "Date(s) of Use": "[Of_2]"
+            },
+            {
+                "Frequency of Use": "[Freq_2]"
+            }
+        ],
+        "Hair-Smoothing Products": [
+            {
+                "Yes/No": "[Used_3]"
+            },
+            {
+                "Brand": "[Brand_3]"
+            },
+            {
+                "Date(s) of Use": "[Of_3]"
+            },
+            {
+                "Frequency of Use": "[Freq_3]"
+            }
+        ],
+        "Pomade": [
+            {
+                "Yes/No": "[Used_4]"
+            },
+            {
+                "Brand": "[Brand_4]"
+            },
+            {
+                "Date(s) of Use": "[Of_4]"
+            },
+            {
+                "Frequency of Use": "[Freq_4]"
+            }
+        ]
+    },
+    "VIII. Fact Witnesses": {
+        "A. Non- Healthare Providers": [
+            {
+                "Identify all persons whom you believe possess information about your alleged injury, current medical condition, or lawsuit, other than your HEALTHCARE PROVIDER\n\nDo not fill out this section": NaN
+            }
+        ],
+        "Witness 1": [
+            {
+                "Name": "[Care_1]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_1]"
+            },
+            {
+                "Relationship to You": "[You_1]"
+            },
+            {
+                "Information": "[Info_1]"
+            }
+        ],
+        "Witness 2": [
+            {
+                "Name": "[Care_2]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_2]"
+            },
+            {
+                "Relationship to You": "[You_2]"
+            },
+            {
+                "Information": "[Info_2]"
+            }
+        ],
+        "Witness 3": [
+            {
+                "Name": "[Care_3]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_3]"
+            },
+            {
+                "Relationship to You": "[You_3]"
+            },
+            {
+                "Information": "[Info_3]"
+            }
+        ],
+        "Witness 4": [
+            {
+                "Name": "[Care_4]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_4]"
+            },
+            {
+                "Relationship to You": "[You_4]"
+            },
+            {
+                "Information": "[Info_4]"
+            }
+        ],
+        "Witness 5": [
+            {
+                "Name": "[Care_5]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_5]"
+            },
+            {
+                "Relationship to You": "[You_5]"
+            },
+            {
+                "Information": "[Info_5]"
+            }
+        ],
+        "Witness 6": [
+            {
+                "Name": "[Care_6]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_6]"
+            },
+            {
+                "Relationship to You": "[You_6]"
+            },
+            {
+                "Information": "[Info_6]"
+            }
+        ],
+        "Witness 7": [
+            {
+                "Name": "[Care_7]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_7]"
+            },
+            {
+                "Relationship to You": "[You_7]"
+            },
+            {
+                "Information": "[Info_7]"
+            }
+        ],
+        "Witness 8": [
+            {
+                "Name": "[Care_8]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_8]"
+            },
+            {
+                "Relationship to You": "[You_8]"
+            },
+            {
+                "Information": "[Info_8]"
+            }
+        ],
+        "Witness 9": [
+            {
+                "Name": "[Care_9]"
+            },
+            {
+                "Location - State, City, and Address (if known)": "[Loc_9]"
+            },
+            {
+                "Relationship to You": "[You_9]"
+            },
+            {
+                "Information": "[Info_9]"
+            }
+        ]
+    },
+    "IX. Document Requests": {
+        "A.": [
+            {
+                "DOCUMENTS you reviewed to prepare your answers to this Plaintiff Fact Sheet": "[Prepare]"
+            }
+        ],
+        "B.": [
+            {
+                "Medical records or other DOCUMENTS related to the use of HAIR RELAXER PRODUCTS": "[Records]"
+            }
+        ],
+        "C.": [
+            {
+                "If your alleged injury is a form of cancer, medical records or other DOCUMENTS relating to your diagnosis and/or treatment for any cancer for any time": "[Treatment]"
+            }
+        ],
+        "D.": [
+            {
+                "DOCUMENTS reflecting any genetic testing or counseling": "[Genetic]"
+            }
+        ],
+        "E.": [
+            {
+                "If your alleged injury is a form of cancer, pathology reports and results of biopsies performed on you": "[Biopsies]"
+            }
+        ],
+        "F.": [
+            {
+                "If your alleged injury is a form of cancer, DOCUMENTS identifying all chemotherapy agents that you have used": "[Chemo]"
+            }
+        ],
+        "G.": [
+            {
+                "DOCUMENTS relating to any workers\u00c6 compensation, social security or other disability proceeding at any time within the last ten (10) years": "[Security]"
+            }
+        ],
+        "H.": [
+            {
+                "Instructions, product warnings, labels package inserts, handouts or other materials that you were provided or obtained in connection with your use of HAIR RELAXER PRODUCTS": "[Materials]"
+            }
+        ],
+        "I.": [
+            {
+                "Advertisements, social media posts, blog posts, or promotions for HAIR RELAXER PRODUCTS": "[Blog]"
+            }
+        ],
+        "J.": [
+            {
+                "Articles or posts discussing HAIR RELAXER PRODUCTS": "[Article]"
+            }
+        ],
+        "K.": [
+            {
+                "Any packaging, container, box, or label for HAIR RELAXER PRODUCTS that you were provided or obtained in connection with your use of HAIR RELAXER PRODUCTS": "[Box]"
+            }
+        ],
+        "L.": [
+            {
+                "DOCUMENTS that mention HAIR RELAXER PRODUCTS or any alleged health risks relating to HAIR RELAXER PRODUCTS": "[Risks]"
+            }
+        ],
+        "M.": [
+            {
+                "Communications or correspondence between You and any representative of any of the defendants": "[Between]"
+            }
+        ],
+        "N.": [
+            {
+                "Journals or diaries at any time for the past ten (10) years relating to the use of HAIR RELAXER PRODUCTS or your treatment for any disease, condition or symptom referenced above, that are related to your alleged injury": "[Disease]"
+            }
+        ],
+        "O.": [
+            {
+                "Photographs, videos, social media or internet posts to or through any site including cloud storage (including but not limited to Google drive and iCloud), websites, social networks (including but not limited X/Twitter, Facebook, Instagram, Snapchat, TikTok, MySpace, LinkedIn, dating websites, or \u00f4blogs\u00f6), chat rooms, or internet forums relating to your hairstyle or your use of HAIR RELAXER PRODUCTS that you have in your possession, custody or control": "[Social]"
+            }
+        ],
+        "P.": [
+            {
+                "Photographs, videos, social media or internet posts to or through any site including cloud storage (including but not limited to Google drive and iCloud), websites, social networks (including X/Twitter, Facebook, Instagram, Snapchat, TikTok, MySpace, LinkedIn, dating websites, or\" blogs\"\u00a5), chat rooms, or internet forums relating to your claimed injuries that you have in your possession, custody or control": "[Media]"
+            }
+        ],
+        "Q.": [
+            {
+                "Photographs, videos, social media or internet posts to or through any site including cloud storage (including but not limited to Google drive and iCloud), websites, social networks (including X/Twitter, Facebook, Instagram, Snapchat, TikTok, MySpace, LinkedIn, dating websites, or \u00f4blogs\u00f6), chat rooms, or internet forums relating to your participation in this litigation that you have in your possession, custody or control": "[Website]"
+            }
+        ],
+        "R.": [
+            {
+                "If you claim you have suffered a loss of earnings or earning capacity, your federal tax returns for each of the five (5) years preceding the injury you allege to be caused by HAIR RELAXER PRODUCTS and every year thereafter, or W-2s for each of the five (5) years preceding the injury you allege to be caused by HAIR RELAXER PRODUCTS and every year thereafter": "[Earning]"
+            }
+        ],
+        "S.": [
+            {
+                "If you claim any medical expenses, bills or invoices from any HEALTHCARE PROVIDER": "[Bills]"
+            }
+        ],
+        "T.": [
+            {
+                "Records of any other expenses allegedly incurred as a result of your alleged injury": "[Result]"
+            }
+        ],
+        "U.": [
+            {
+                "If you are suing in a representative capacity, letters testamentary or letters of administration": "[Suing]"
+            }
+        ],
+        "V.": [
+            {
+                "If you are suing in a representative capacity on behalf of a deceased person, the decedent\u00c6s death certificate": "[Behalf]"
+            }
+        ],
+        "W.": [
+            {
+                "If you are suing in a representative capacity on behalf of a deceased person, the decedent's autopsy report": "[Autopsy]"
+            }
+        ],
+        "X.": [
+            {
+                "Signed authorizations in the forms attached hereto": "[Hereto]"
+            }
+        ]
+    },
+    "X. Declaration": {
+        "X.": [
+            {
+                "Signature": "[Signature]"
+            },
+            {
+                "Signature Month": "[MM_Sign]"
+            },
+            {
+                "Signature Day": "[DD_Sign]"
+            },
+            {
+                "Signature Year": "[YY_Sign]"
+            }
+        ]
+    },
+    "Zad7amE49E3yziEY6Xa3NYdUvPucGF": {
+        "X.": [
+            {
+                "NaN": NaN
+            }
+        ]
+    }
+}

@@ -163,7 +163,7 @@ function getPageValues(fieldset, page){
 var page = ftGetParamValue("active_page");
 var fieldset = ftGetParamValue("json_fieldset");
 fieldset = JSON.parse(fieldset);
-var fields = getPageValues(fieldset, page);
+getPageValues(fieldset, page);
 //resave the updated fieldset
 //ftSetParamValue('json_fieldset',JSON.stringify(fieldset));
 

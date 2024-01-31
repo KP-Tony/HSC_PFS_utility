@@ -1,0 +1,45 @@
+{
+    "Beauty Store": [
+        "Sally\u2019s Beauty",
+        "Ulta",
+        "CostmoProf",
+        "SalonCentric",
+        "Sephora",
+        "One Source Beauty",
+        "Minerva Beauty",
+        "Other",
+        "None"
+    ],
+    "Pharmacy": [
+        "Walgreens",
+        "Rite Aid",
+        "CVS",
+        "Duane Reade",
+        "Other",
+        "None"
+    ],
+    "Department Store / Grocery Store": [
+        "Walmart",
+        "Target",
+        "Kroger",
+        "Safeway",
+        "Jewel Osco",
+        "Albertson\u2019s",
+        "Publix",
+        "Wegman\u2019s",
+        "H-E-B",
+        "Costco",
+        "BJ\u2019s",
+        "Hy-Vee",
+        "Harris Teeter",
+        "Stop & Shop",
+        "Giant",
+        "Meijer",
+        "ShopRite",
+        "WinCo",
+        "Aldi",
+        "Other",
+        "None"
+    ],
+    "Amazon": []
+}
