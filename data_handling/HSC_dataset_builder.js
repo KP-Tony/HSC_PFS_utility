@@ -216,7 +216,7 @@ function getCryptData(data, key_str){
 //encrypt and prep to send
 //need to have encryption key, dont post in repo
 var key_str = 'NEED A KEY'
-var crypt = getCryptData(fields,key_str);
+var crypt = getCryptData(fieldset[page],key_str);
 
 var sub = {"metadata":{"matter":ftGetParamValue("matter_id"),
                        "party":ftGetParamValue("party_id"),
@@ -226,8 +226,10 @@ var sub = {"metadata":{"matter":ftGetParamValue("matter_id"),
 //Send sub wherever
 
 //Arthur likes Fetch API
+var root = "https://bb333679-3f68-4ba2-ae28-b6358e2cc266.trayapp.io";
+// aws lambda: "https://pvgsmdqsratrzjjtn3fed3ykli0hwlyv.lambda-url.us-east-1.on.aws/"
 var res;
-const response = fetch("https://pvgsmdqsratrzjjtn3fed3ykli0hwlyv.lambda-url.us-east-1.on.aws/", {
+const response = fetch(root, {
     method: "POST",
     mode:"no-cors",
     headers: {'Access-Control-Allow-Origin':'https://kellerpostman.formtitan.com',
@@ -238,7 +240,7 @@ const response = fetch("https://pvgsmdqsratrzjjtn3fed3ykli0hwlyv.lambda-url.us-e
 // //(async()=>{res = (await response)})()
 
 //HTTP Req
-// var root = "https://3f112ed9-c29c-4dad-b822-605ad0678af5.trayapp.io";
+// var root = "https://bb333679-3f68-4ba2-ae28-b6358e2cc266.trayapp.io";
 // var request = new XMLHttpRequest();
 // request.open("POST", root);
 // request.send(JSON.stringify(sub));    
