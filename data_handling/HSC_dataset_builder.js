@@ -216,7 +216,12 @@ function getCryptData(data, key_str){
 //encrypt and prep to send
 //need to have encryption key, dont post in repo
 var key_str = 'NEED A KEY'
-var crypt = getCryptData(fieldset[page],key_str);
+
+
+//if the initial setup
+var crypt = getCryptData(fieldset,key_str);
+//if sending the current page's data
+var crypt = getCryptData({page:fieldset[page]},key_str);
 
 var sub = {"metadata":{"matter":ftGetParamValue("matter_id"),
                        "party":ftGetParamValue("party_id"),
